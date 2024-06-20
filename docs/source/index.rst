@@ -29,7 +29,7 @@ Beamlines
    BLs/ID25_NanoARPES
    BLs/ID26_SoftNanoProbe
    
-Commonly-*designed* Components
+Commonly-*designed* Componentsz
 ------------------------
 
 .. toctree::
@@ -39,3 +39,7 @@ Commonly-*designed* Components
    CDCs/FEs
    CDCs/DAQ
    CDCs/Datacenter
+
+::doc:`Contributing Authors` 
+-----------------------------
+
