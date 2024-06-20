@@ -11,6 +11,10 @@ This website is created to assist the Beamline Science Team of the 4GSR Research
 
    The Beamline TDRs are currently being actively documented.
 
+.. attention::
+
+   The website's content is currently **incomplete** and **inaccurate** due to ongoing compilation efforts.
+
 Beamlines
 ---------
 
