@@ -16,6 +16,7 @@ Contents
 
 .. toctree::
 
+   ID03_CoXRD
    ID03 Coherent X-ray Diffraction (CoXRD)
    ID04 Coherent Small Angle X-ray Scattering (CoSAXS)
    ID10 NanoProbe
