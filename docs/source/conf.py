@@ -4,7 +4,7 @@
 
 project = 'Korea-4GSR Beamline TDRs'
 copyright = '2024, Pohang Accelerator Laboratory'
-author = 'Beamline Science Team, 4GSR Accelerator Research Division, Pohang Accelerator Laboratory'
+author = 'Beamline Science Team, 4GSR Research Division, Pohang Accelerator Laboratory'
 
 release = '0.1'
 version = '0.1.0'
