@@ -1,7 +1,7 @@
 Korea-4GSR Beamline TDRs
 ========================
 
-The Korea fourth-generation storage ring (`**Korea-4GSR** <https://kps.kbsi.re.kr/>`_) is a new synchrotron radiation facility currently under construction in Ochang, Chungbuk, South Korea. The new ring is designed as a *multipurpose* synchrotron radiation source that aims to achieve both academic excellence and industrial benefits.
+`The Korea fourth-generation storage ring <https://kps.kbsi.re.kr/>`_ (**Korea-4GSR**) is a new synchrotron radiation facility currently under construction in Ochang, Chungbuk, South Korea. The new ring is designed as a *multipurpose* synchrotron radiation source that aims to achieve both academic excellence and industrial benefits.
 
 This website is designed to assist the Beamline Science Team of the 4GSR Research Division at `the Pohang Accelerator Laboratory <http://pal.postech.ac.kr>`_ in authoring technical design reports (TDRs) for the first phase beeamlines at Korea-4GSR. Snippets of beamline TDRs will be compiled regularly to facilitate effective communication among participating authors.
 
