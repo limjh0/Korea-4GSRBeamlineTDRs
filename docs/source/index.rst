@@ -52,4 +52,4 @@ Resources
 .. toctree::
    :maxdepth: 1
 
-   shared_drive
+   Repository
