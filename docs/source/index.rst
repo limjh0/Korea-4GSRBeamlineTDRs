@@ -12,11 +12,12 @@ This website is created to assist the Beamline Science Team of the 4GSR Research
 
    The website's content is *incomplete* and *inaccurate* due to ongoing compilation efforts.
 
-Beamlines
----------
+.. Beamlines
+.. ---------
 
 .. toctree::
    :maxdepth: 1
+   :caption: Beamlines
 
    BLs/ID03_CoXRD
    BLs/ID04_CoSAXS
@@ -29,27 +30,30 @@ Beamlines
    BLs/ID25_NanoARPES
    BLs/ID26_SoftNanoProbe
    
-Commonly-*designed* Componentsz
-------------------------
+.. Commonly-*designed* Componentsz
+.. ------------------------
 
 .. toctree::
    :maxdepth: 2
+   :caption: Commonly-*designed* Components
 
    CDCs/Sources   
    CDCs/FEs
    CDCs/DAQ
    CDCs/Datacenter
 
-Contributing Authors 
---------------------
+.. Contributing Authors 
+.. --------------------
 .. toctree::
    :maxdepth: 1
+   :caption: Miscellaneous
 
    Authors
-
-Resources
----------
-.. toctree::
-   :maxdepth: 1
-
    Repository
+
+.. Resources
+.. ---------
+.. .. toctree::
+..   :maxdepth: 1
+
+..   Repository
