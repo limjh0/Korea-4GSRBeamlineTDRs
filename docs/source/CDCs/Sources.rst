@@ -10,5 +10,5 @@ MPU78
 -----
 MPU98
 -----
-Center Bend
------------
+Center Bend Magnet
+------------------
