@@ -34,6 +34,7 @@ Common Design Components
 ------------------------
 
 .. toctree::
+   :maxdepth: 2
 
    CDCs/Sources   
    CDCs/FEs
