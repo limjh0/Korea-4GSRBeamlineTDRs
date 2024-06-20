@@ -13,22 +13,24 @@ about 100 times smaller than the emittance of `the Pohang Light Source-II (PLS-I
 
    The Beamline TDRs are currently being actively documented.
 
-Contents
---------
+Beamlines
+---------
 
 .. toctree::
 
-   ID03_CoXRD
-   ID04_CoSAXS
-   ID10_NanoProbe
-   BM10_HEM
-   ID21_BioSAXS
-   ID22_BioNX
-   ID23_RTXAFS
-   ID24_MSA
-   ID25_NanoARPES
-   ID26_SoftNanoProbe
-   FE_ID
-   FE_BM
-   Datacenter
+   BLs/ID03_CoXRD
+   BLs/ID04_CoSAXS
+   BLs/ID10_NanoProbe
+   BLs/BM10_HEM
+   BLs/ID21_BioSAXS
+   BLs/ID22_BioNX
+   BLs/ID23_RTXAFS
+   BLs/ID24_MSA
+   BLs/ID25_NanoARPES
+   BLs/ID26_SoftNanoProbe
    
+Common Design Components
+------------------------
+   CDCs/Source   
+   CDCs/FE
+   CDCs/Datacenter
