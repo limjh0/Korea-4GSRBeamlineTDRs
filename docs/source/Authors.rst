@@ -27,7 +27,7 @@ Contributing Authors
     * TBA
 * Data Acquisition (DAQ)
     * In-Hui Hwang
-* Data center
+* Data Center
     * In-Hui Hwang
 * Editor and Webmaster
     * Jae-Hong Lim
@@ -36,7 +36,10 @@ Contributing Authors
     :width: 600px
     :align: center
     :alt: Beamline Science Team
+Beamline Science Team
 
 .. raw:: html
-    <div style="text-align: center;">Beamline Science Team</div>
+    <div style="text-align: center">
+    Beamline Science Team
+    </div>
 
