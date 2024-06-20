@@ -1,4 +1,4 @@
-BM10 High Energy Microscopy (HEM)
+``BM10`` High Energy Microscopy (HEM)
 =================================
 
 .. toctree::
