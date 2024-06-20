@@ -30,12 +30,12 @@ This website is created to assist the Beamline Science Team of the 4GSR Research
    BLs/ID25_NanoARPES
    BLs/ID26_SoftNanoProbe
    
-.. Commonly-*designed* Componentsz
+.. Commonly-designed Componentsz
 .. ------------------------
 
 .. toctree::
    :maxdepth: 2
-   :caption: Commonly-*designed* Components
+   :caption: Commonly-designed Components
 
    CDCs/Sources   
    CDCs/FEs
