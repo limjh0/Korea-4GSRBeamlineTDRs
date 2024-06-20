@@ -17,6 +17,7 @@ Beamlines
 ---------
 
 .. toctree::
+   :maxdepth: 1
 
    BLs/ID03_CoXRD
    BLs/ID04_CoSAXS
