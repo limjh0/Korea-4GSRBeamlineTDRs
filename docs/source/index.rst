@@ -47,3 +47,9 @@ Contributing Authors
 
    Authors
 
+Resources
+---------
+.. toctree::
+   :maxdepth: 1
+
+   shared_drive
