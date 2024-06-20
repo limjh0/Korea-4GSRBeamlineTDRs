@@ -1,7 +1,5 @@
 ID22 Bio Nano Crystallography (BioNX)
 =================================
-Contents
---------
 
 .. toctree::
 

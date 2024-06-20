@@ -1,7 +1,5 @@
 ID21 BioPharma-BioSAXS (BioSAXS)
 =================================
-Contents
---------
 
 .. toctree::
 

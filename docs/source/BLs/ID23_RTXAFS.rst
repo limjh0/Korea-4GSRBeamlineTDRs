@@ -1,7 +1,5 @@
 ID23 RealTime XAFS (RTXAFS)
 =================================
-Contents
---------
 
 .. toctree::
 
