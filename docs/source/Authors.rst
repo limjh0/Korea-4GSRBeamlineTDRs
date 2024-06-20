@@ -22,7 +22,9 @@ Contributing Authors
 * ID26 Soft X-ray NanoProbe (softNanoProbe)
     * Ki-jeong Kim
 * Photon Sources
+    * TBA
 * Front Ends
+    * TBA
 * Data Acquisition (DAQ)
     * In-Hui Hwang
 * Data center
