@@ -29,7 +29,7 @@ Beamlines
    BLs/ID25_NanoARPES
    BLs/ID26_SoftNanoProbe
    
-Commonly-*Designed* Components
+Commonly-*designed* Components
 ------------------------
 
 .. toctree::
