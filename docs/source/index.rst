@@ -13,7 +13,7 @@ This website is created to assist the Beamline Science Team of the 4GSR Research
 
 .. attention::
 
-   The website's content is currently **incomplete** and **inaccurate** due to ongoing compilation efforts.
+   The website's content is currently *incomplete* and *inaccurate* due to ongoing compilation efforts.
 
 Beamlines
 ---------
