@@ -20,4 +20,12 @@ Contents
 
    ID03_CoXRD
    ID04_CoSAXS
+   ID10_NanoProbe
+   BM10_HEM
+   ID21_BioSAXS
+   ID22_BioNX
+   ID23_RTXAFS
+   ID24_MSA
+   ID25_NanoARPES
+   ID26_SoftNanoProbe
    
