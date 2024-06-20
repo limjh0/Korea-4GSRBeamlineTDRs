@@ -31,6 +31,9 @@ Beamlines
    
 Common Design Components
 ------------------------
-   CDCs/Source   
-   CDCs/FE
+
+.. toctree::
+
+   CDCs/Sources   
+   CDCs/FEs
    CDCs/Datacenter
