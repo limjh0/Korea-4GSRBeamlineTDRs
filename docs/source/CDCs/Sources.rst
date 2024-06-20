@@ -1,5 +1,5 @@
-Sources
-=======
+Photon Sources
+==============
 In-vacuum Undulators (IVU20, IVU22, IVU24)
 ------------------------------------------
 MPU78
