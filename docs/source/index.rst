@@ -4,8 +4,8 @@ Korea-4GSR Beamline TDRs
 The Korea fourth-generation storage ring (**Korea-4GSR**) is a new synchrotron radiation facility currently under construction in Ochang, Chungbuk, South Korea. It is designed as a *multipurpose* synchrotron radiation source that aims to achieve both academic excellence and industrial benefits. The facility will operate at an electron energy of 4 GeV, which can produce a wide range of X-rays from soft to hard X-rays. The target emittance is 62 pm⋅rad, which is
 about 100 times smaller than the emittance of `the Pohang Light Source-II (PLS-II) <http://pal.postech.ac.kr/>`_ in South Korea.
 
-Check out the :doc:`usage` section for further information, including
-#how to :ref:`installation` the project.
+.. Check out the :doc:`usage` section for further information, including
+.. #how to :ref:`installation` the project.
 
 .. note::
 
@@ -19,11 +19,11 @@ Contents
    ID03 Coherent X-ray Diffraction (CoXRD)
    ID04 Coherent Small Angle X-ray Scattering (CoSAXS)
    ID10 NanoProbe
-   BM10 High Energy Microscopy
-   ID21 BioPharma-BioSAXS
-   ID22 BioNX
-   ID23 RealTime XAFS
-   ID24 Material Structure Analysis
+   BM10 High Energy Microscopy (HEM)
+   ID21 BioPharma-BioSAXS (BioSAXS)
+   ID22 Bio Nano Crystallography (BioNX)
+   ID23 RealTime XAFS (RTXAFS)
+   ID24 Material Structure Analysis (MSA)
    ID25 NanoARPES
-   ID26 Soft X-ray NanoProbe
+   ID26 Soft X-ray NanoProbe (softNanoProbe)
    
