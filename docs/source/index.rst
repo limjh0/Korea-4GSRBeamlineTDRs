@@ -6,14 +6,10 @@ The new ring is designed as a *multipurpose* synchrotron radiation source that a
 
 This website is created to assist the Beamline Science Team of the 4GSR Research Division at `the Pohang Accelerator Laboratory <http://pal.postech.ac.kr>`_ in authoring technical design reports (TDRs) for the first phase beamlines at Korea-4GSR. Snippets of beamline TDRs will be compiled regularly to facilitate effective communication among contributing authors.
 
-.. Marker for update...
-
 .. attention::
 
    The website's content is *incomplete* and *inaccurate* due to ongoing compilation efforts.
 
-.. Beamlines
-.. ---------
 
 .. toctree::
    :maxdepth: 1
@@ -30,9 +26,6 @@ This website is created to assist the Beamline Science Team of the 4GSR Research
    BLs/ID25_NanoARPES
    BLs/ID26_SoftNanoProbe
    
-.. Commonly-designed Componentsz
-.. ------------------------
-
 .. toctree::
    :maxdepth: 2
    :caption: Commonly-designed Components
@@ -42,18 +35,9 @@ This website is created to assist the Beamline Science Team of the 4GSR Research
    CDCs/DAQ
    CDCs/Datacenter
 
-.. Contributing Authors 
-.. --------------------
 .. toctree::
    :maxdepth: 1
    :caption: Miscellaneous
 
    Authors
    Repository
-
-.. Resources
-.. ---------
-.. .. toctree::
-..   :maxdepth: 1
-
-..   Repository
