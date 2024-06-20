@@ -21,13 +21,19 @@ Contributing Authors
     * Ki-jeong Kim
 * ID26 Soft X-ray NanoProbe (softNanoProbe)
     * Ki-jeong Kim
-* Editor
+* Photon Sources
+* Front Ends
+* Data Acquisition (DAQ)
+    * In-Hui Hwang
+* Data center
+    * In-Hui Hwang
+* Editor and Webmaster
     * Jae-Hong Lim
 
 .. image:: 20240527.png 
     :width: 600px
     :align: center
     :alt: Beamline Science Team
-.. raw:: html
-    <div style="text-align: center;">Beamline Science Team</div>
+    .. raw:: html
+        <div style="text-align: center;">Beamline Science Team</div>
 
