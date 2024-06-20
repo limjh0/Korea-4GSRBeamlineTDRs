@@ -1,5 +1,5 @@
-Contributing Authors
-====================
+Beamline Science Team
+=====================
 
 .. image:: 20240527.png 
     :width: 600px
