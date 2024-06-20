@@ -38,4 +38,5 @@ Common Design Components
 
    CDCs/Sources   
    CDCs/FEs
+   CDCs/DAQ
    CDCs/Datacenter
