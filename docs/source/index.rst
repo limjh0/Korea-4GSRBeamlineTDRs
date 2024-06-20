@@ -40,6 +40,6 @@ Commonly-*designed* Componentsz
    CDCs/DAQ
    CDCs/Datacenter
 
-::doc:`Authors` 
+:doc:`Authors` 
 ----------------
 
