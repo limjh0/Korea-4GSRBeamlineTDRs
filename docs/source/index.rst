@@ -40,6 +40,10 @@ Commonly-*designed* Componentsz
    CDCs/DAQ
    CDCs/Datacenter
 
-:doc:`Authors` 
-----------------
+Contributing Authors 
+--------------------
+.. toctree::
+   :maxdepth: 1
+
+   Authors
 
