@@ -17,14 +17,5 @@ Contents
 .. toctree::
 
    ID03_CoXRD
-   ID03 Coherent X-ray Diffraction (CoXRD)
-   ID04 Coherent Small Angle X-ray Scattering (CoSAXS)
-   ID10 NanoProbe
-   BM10 High Energy Microscopy (HEM)
-   ID21 BioPharma-BioSAXS (BioSAXS)
-   ID22 Bio Nano Crystallography (BioNX)
-   ID23 RealTime XAFS (RTXAFS)
-   ID24 Material Structure Analysis (MSA)
-   ID25 NanoARPES
-   ID26 Soft X-ray NanoProbe (softNanoProbe)
+   ID04_CoSAXS
    
