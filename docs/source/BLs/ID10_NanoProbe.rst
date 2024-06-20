@@ -1,4 +1,4 @@
-ID10 NanoProbe
+``ID10`` NanoProbe
 =================================
 
 .. toctree::

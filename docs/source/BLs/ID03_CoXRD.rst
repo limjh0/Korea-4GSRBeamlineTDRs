@@ -1,4 +1,4 @@
-ID03 Coherent X-ray Diffraction (CoXRD)
+``ID03`` Coherent X-ray Diffraction (CoXRD)
 =================================
 
 .. toctree::

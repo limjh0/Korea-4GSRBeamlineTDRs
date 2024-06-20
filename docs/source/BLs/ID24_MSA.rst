@@ -1,4 +1,4 @@
-ID24 Material Structure Analysis (MSA)
+``ID24`` Material Structure Analysis (MSA)
 =================================
 
 .. toctree::

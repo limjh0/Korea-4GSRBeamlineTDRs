@@ -1,4 +1,4 @@
-ID25 NanoARPES
+``ID25`` NanoARPES
 =================================
 
 .. toctree::

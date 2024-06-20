@@ -1,4 +1,4 @@
-ID21 BioPharma-BioSAXS (BioSAXS)
+``ID21`` BioPharma-BioSAXS (BioSAXS)
 =================================
 
 .. toctree::

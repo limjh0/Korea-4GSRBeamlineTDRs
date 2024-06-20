@@ -1,4 +1,4 @@
-ID26 Soft X-ray NanoProbe (softNanoProbe)
+``ID26`` Soft X-ray NanoProbe (softNanoProbe)
 =================================
 
 .. toctree::

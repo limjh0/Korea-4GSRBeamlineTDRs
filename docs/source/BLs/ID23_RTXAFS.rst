@@ -1,4 +1,4 @@
-ID23 RealTime XAFS (RTXAFS)
+``ID23`` RealTime XAFS (RTXAFS)
 =================================
 
 .. toctree::
