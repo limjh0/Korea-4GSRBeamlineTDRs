@@ -38,7 +38,8 @@ Contributing Authors
     :alt: Beamline Science Team
 
 .. raw:: html
+
     <div style="text-align: center;">
-    Beamline Science Team
+        Beamline Science Team
     </div>
 
