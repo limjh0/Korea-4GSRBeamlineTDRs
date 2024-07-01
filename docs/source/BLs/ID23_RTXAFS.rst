@@ -3,7 +3,7 @@
 
 including the 07 file:
 
-.. include:: ID23_RTXAFS/07.rst
+.. embed:: ID23_RTXAFS/07.rst
 images?
 
 
