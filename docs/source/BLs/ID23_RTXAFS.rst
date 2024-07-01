@@ -9,4 +9,4 @@
   ID23_RTXAFS/References
   ID23_RTXAFS/07
 
-.. include::ID23_RTXAFS/07.rst
+.. include:: ID23_RTXAFS/07.rst
