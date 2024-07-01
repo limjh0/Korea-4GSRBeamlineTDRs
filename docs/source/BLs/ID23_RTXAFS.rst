@@ -31,17 +31,18 @@ pivotal role in various advanced material sciences, such as batteries,
 catalysts, and biomedicines, and is expected to open up new frontiers in
 research.
 
-add a tap
-
 |image1|
-  **Figure 1**. Expected scientific applications of RXAFS beamline.
+  
+**Figure 1**. Expected scientific applications of RXAFS beamline.
 
 2. Scientific objectives
 -------------------------
 
 **2.1 X-ray Absorption Spectroscopy (XAS)**
 
-|image2| **Figure 2.** Schematic illustration of XAS
+|image2| 
+  
+**Figure 2.** Schematic illustration of XAS
 
 XAS, an experimental method for gathering data on X-ray intensity before
 and after it passes through a material sample, is a versatile tool that
@@ -63,7 +64,9 @@ user-friendly measurement method.
 
 **2.1 Quick X-ray Absorption Spectroscopy (QXAS)**
 
-|image3|\ **Figure 3.** Schematic illustration of Quick XAS
+|image3|
+  
+**Figure 3.** Schematic illustration of Quick XAS
 
 XAS, which utilizes hard X-rays and can be measured at room temperature
 and normal pressure, is advantageous for in situ/operando analyses. By
@@ -98,7 +101,9 @@ progress and application of QXAS in the field.
 
 **2.3 X-ray Emission Spectroscopy (XES)**
 
-|image4|\ **Figure 4**. Schematic illustration of XES
+|image4|
+
+**Figure 4**. Schematic illustration of XES
 
 XES with high energy resolution is increasingly pivotal for gaining
 insights into electronic and coordination structures by detecting X-ray
@@ -139,7 +144,6 @@ provides detailed specifications for the undulator, which has a 24 mm
 period and a total length of 3 m.
 
 **Table 1**. Undulator Parameters
-
 +-------+-----+-----+----+-----+-----+----------+---------------------+
 | Undu  | Per | Len | U  | K   | Po  | Power    | Max. power after FE |
 | lator | iod | gth | \  | \ : | wer | density  |                     |
@@ -169,7 +173,7 @@ energy bandwidth through positive tapering, where the undulator gap
 increases along the undulator length.
 
 |image5|
-
+  
 **Figure 5.** The change of photon beam flux and beam shape upon
 different tapering conditions. (a) Flux density and bandwidth change
 upon tapering condition at an initial gap of 6.53 mm. (b) comparison of
