@@ -144,6 +144,7 @@ provides detailed specifications for the undulator, which has a 24 mm
 period and a total length of 3 m.
 
 **Table 1**. Undulator Parameters
+
 +-------+-----+-----+----+-----+-----+----------+---------------------+
 | Undu  | Per | Len | U  | K   | Po  | Power    | Max. power after FE |
 | lator | iod | gth | \  | \ : | wer | density  |                     |
