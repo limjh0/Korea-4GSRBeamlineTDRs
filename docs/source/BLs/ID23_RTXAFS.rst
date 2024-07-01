@@ -1,5 +1,10 @@
-``ID23`` RealTime XAFS (RTXAFS)
+``ID23`` RealTime XAFS (RTXAFS)!
 =================================
+
+
+.. include:: ID23_RTXAFS/07.rst
+
+
 
 .. toctree::
 
