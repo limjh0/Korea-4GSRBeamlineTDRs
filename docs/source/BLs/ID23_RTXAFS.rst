@@ -1,6 +1,7 @@
-``ID23`` RealTime XAFS (RTXAFS)!
-=================================
+``ID23`` RealTime XAFS (RTXAFS) is
+==================================
 
+including the 07 file:
 
 .. include:: ID23_RTXAFS/07.rst
 
