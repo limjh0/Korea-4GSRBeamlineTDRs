@@ -30,3 +30,31 @@ By delivering both QXAFS and XES, the RXAFS beamline is poised to play a
 pivotal role in various advanced material sciences, such as batteries,
 catalysts, and biomedicines, and is expected to open up new frontiers in
 research.
+
+|image1|
+
+**Figure 1**. Expected scientific applications of RXAFS beamline.
+
+**2. Scientific objectives**
+
+**2.1 X-ray Absorption Spectroscopy (XAS)**
+
+|image2| **Figure 2.** Schematic illustration of XAS
+
+XAS, an experimental method for gathering data on X-ray intensity before
+and after it passes through a material sample, is a versatile tool that
+inspires with its potential. This data is then used to apply the
+Beer-Lambert law, enabling the determination and analysis of the
+sample's X-ray attenuation coefficient. The energy of the absorption
+edge, which varies depending on the element type, allows for the
+selective analysis of elements using XAS. This versatility means that
+even if a sample contains a variety of elements, it is possible to
+obtain individual local structure information for a specific element.
+Furthermore, XAS is a versatile analysis technique that is not limited
+by the presence or absence of crystallinity or the shape of a sample, as
+it can observe the local structure around a specific element within a
+few angstroms. This versatility is crucial in the development of various
+advanced materials, including secondary batteries, catalysts,
+semiconductor materials, and solar cells. In the RXAFS beamline, XAS is
+a fundamental technique that supports its normal operation with a
+user-friendly measurement method.
