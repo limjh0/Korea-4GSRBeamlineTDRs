@@ -31,10 +31,10 @@ pivotal role in various advanced material sciences, such as batteries,
 catalysts, and biomedicines, and is expected to open up new frontiers in
 research.
 
-erase a line
+add a tap
 
 |image1|
-**Figure 1**. Expected scientific applications of RXAFS beamline.
+  **Figure 1**. Expected scientific applications of RXAFS beamline.
 
 2. Scientific objectives
 -------------------------
