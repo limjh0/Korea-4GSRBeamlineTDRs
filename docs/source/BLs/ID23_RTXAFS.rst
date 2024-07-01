@@ -1,9 +1,8 @@
 ``ID23`` RealTime XAFS (RTXAFS)
 ===============================
 
-**2.2.7 Real-time X-ray Absorption Fine Structure Beamline**
-
-**1. Introduction**
+1. Introduction
+---------------
 
 The Real-time X-ray Absorption Fine Structure (RXAFS) beamline is a
 state-of-the-art tool specifically designed for X-ray absorption and
@@ -36,7 +35,8 @@ research.
 
 **Figure 1**. Expected scientific applications of RXAFS beamline.
 
-**2. Scientific objectives**
+2. Scientific objectives
+------------------------
 
 **2.1 X-ray Absorption Spectroscopy (XAS)**
 
@@ -125,7 +125,8 @@ with XAS. This combination provides insight into overall electronic
 structures, including valence and conduction bands, during in-situ
 measurements.
 
-**3. Beamline Requirements for the Insertion Device**
+3. Beamline Requirements for the Insertion Device
+-------------------------------------------------
 
 The demand for high-quality, high-resolution XAS data is increasing in
 the field of advanced and next-generation materials. This XAS data,
@@ -186,7 +187,8 @@ concluded that tapering the undulator gap more is necessary to gain the
 unchanged beam shape along the beam energy change to measure the XAS,
 including the EXAFS region.
 
-**4. Beamline Requirements for the Front End**
+4. Beamline Requirements for the Front End
+------------------------------------------
 
 The RXAFS beamline will employ the latest High Heat-Load Front End,
 capable of handling up to 18 kW of power. It will feature a windowless
@@ -194,7 +196,8 @@ exit design with a 2 (h) × 2 (v) mm\ :sup:`2` exit mask aperture, which
 is essential for maintaining optimal performance. Further details are
 provided in the ‘Front End’ section of this report.
 
-**5. Beamline Layout**
+5. Beamline Layout
+------------------
 
 **Table 2** includes the design goals of the beamline. The beamline
 layout is designed to meet these goals and satisfy users’ demands
