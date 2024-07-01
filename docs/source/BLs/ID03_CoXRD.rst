@@ -178,6 +178,6 @@
    |          |                        | plate                            |
    +----------+------------------------+----------------------------------+
 
-.. |image1| image::ID03_CoXRD/media/image1.png
+.. |image1| image:: ID03_CoXRD/media/image1.png
    :width: 5.95902in
    :height: 1.46038in

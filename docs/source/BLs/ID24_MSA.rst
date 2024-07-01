@@ -118,9 +118,9 @@ of the MSA is intended to utilize the high flux and low beam divergence
 characteristics provided by the storage ring and insertion device to do
 efficiently that.
 
-.. |image1| image::ID24_MSA/media/image1.png
+.. |image1| image:: ID24_MSA/media/image1.png
    :width: 6.29921in
    :height: 1.45498in
-.. |image2| image::ID24_MSA/media/image1.png
+.. |image2| image:: ID24_MSA/media/image1.png
    :width: 6.29921in
    :height: 1.45498in

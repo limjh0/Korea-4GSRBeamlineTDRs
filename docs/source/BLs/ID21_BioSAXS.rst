@@ -238,6 +238,6 @@ Reference
 
 [14] Bioinformatics 34, 1944-1946 (2017)
 
-.. |image1| image::ID21_BioSAXS/media/image1.png
+.. |image1| image:: ID21_BioSAXS/media/image1.png
    :width: 6.26806in
    :height: 2.53819in

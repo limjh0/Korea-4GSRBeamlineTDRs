@@ -529,21 +529,21 @@ location from the source.
 |          |           | 2D PSD         |                            |
 +----------+-----------+----------------+----------------------------+
 
-.. |image1| image::ID23_RTXAFS/media/image1.png
+.. |image1| image:: ID23_RTXAFS/media/image1.png
    :width: 4.42309in
    :height: 2.79861in
-.. |image2| image::ID23_RTXAFS/media/image2.png
+.. |image2| image:: ID23_RTXAFS/media/image2.png
    :width: 6.26806in
    :height: 3.08542in
-.. |image3| image::ID23_RTXAFS/media/image3.png
+.. |image3| image:: ID23_RTXAFS/media/image3.png
    :width: 6.26806in
    :height: 3.43056in
-.. |image4| image::ID23_RTXAFS/media/image4.png
+.. |image4| image:: ID23_RTXAFS/media/image4.png
    :width: 6.26806in
    :height: 2.35486in
-.. |image5| image::ID23_RTXAFS/media/image5.png
+.. |image5| image:: ID23_RTXAFS/media/image5.png
    :width: 5.26154in
    :height: 2.04434in
-.. |image6| image::ID23_RTXAFS/media/image6.png
+.. |image6| image:: ID23_RTXAFS/media/image6.png
    :width: 6.26667in
    :height: 3.39167in
