@@ -148,13 +148,13 @@ floor cold air plenum, designed to withstand a load of 0.8 tons per
 square meter. Network trays are installed on the ceiling to consider
 wiring efficiency.
 
-.. figure:: media/image1.png
+.. figure:: Datacenter/media/image1.png
    :width: 6.26806in
    :height: 2.48472in
 
    Figure 1 A schematic diagram of data management and user support
 
-.. figure:: media/image2.png
+.. figure:: Datacenter/media/image2.png
    :width: 4.22724in
    :height: 4.75in
 
