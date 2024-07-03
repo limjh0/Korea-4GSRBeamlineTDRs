@@ -27,7 +27,7 @@ This website is created to assist the Beamline Science Team of the 4GSR Research
    BLs/ID26_SoftNanoProbe
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Commonly-designed Components
 
    CDCs/Sources   
@@ -40,4 +40,5 @@ This website is created to assist the Beamline Science Team of the 4GSR Research
    :caption: Miscellaneous
 
    Authors
+   Work_Schedule
    Repository
