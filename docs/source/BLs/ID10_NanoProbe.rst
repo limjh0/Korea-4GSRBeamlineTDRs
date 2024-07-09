@@ -2,10 +2,10 @@
 =================================
 
 1. Introduction
-===============
+---------------
 
 2. Scientific objectives
-========================
+------------------------
 
 The nanoprobe beamline provides a nano-beam smaller than 50 nm in the
 hard X-ray energy range of 5 to 25 keV. This beam size of 50 nm allows
@@ -36,7 +36,7 @@ distribution of the sample, with all measurements designed to be studied
 in three dimensions.
 
 3. Beamline Requirements for the Insertion Device
-=================================================
+-------------------------------------------------
 
 The nanoprobe beamline provides an energy range of 5-25 keV using an
 In-Vacuum Undulator(IVU). IDs of Nanoprobe are designed to give the
@@ -58,7 +58,7 @@ x 2 mm² opening @ 23 m under the maximum current conditions(400 mA)
 Table 1. Parameters of insertion device
 
 4. Beamline Requirements for the Front End
-==========================================
+-------------------------------------------
 
 The FE of the nanoprobe beamline is required to 1) handle a 17 kW heat
 load, 2) beam position diagnostics, and 3) radiation safety. First, the
@@ -85,7 +85,7 @@ electron beam inserted into the FE is deflected horizontally and
 prevented from reaching the optical hutch.
 
 5. Beamline Layout
-==================
+-----------------
 
 **Beamline layout**
 
@@ -524,7 +524,7 @@ developed for the Korea-4GSR construction.
 [Table 2] Major component list of Nanoprobe beamline
 
 6. Optics Overview
-==================
+------------------
 
 In this section, we describe the optics and beam specifications of the
 nanoprobe beamline. For parameters related to the electron beam, refer
