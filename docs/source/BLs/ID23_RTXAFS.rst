@@ -2,7 +2,7 @@
 ===============================
 
 1. Introduction
----------------
+----------------
 
 The Real-time X-ray Absorption Fine Structure (RXAFS) beamline is a
 state-of-the-art tool specifically designed for X-ray absorption and
@@ -40,7 +40,9 @@ research.
 
 **2.1 X-ray Absorption Spectroscopy (XAS)**
 
-|image2| **Figure 2.** Schematic illustration of XAS
+|image2|
+
+**Figure 2.** Schematic illustration of XAS
 
 XAS, an experimental method for gathering data on X-ray intensity before
 and after it passes through a material sample, is a versatile tool that
@@ -62,7 +64,9 @@ user-friendly measurement method.
 
 **2.1 Quick X-ray Absorption Spectroscopy (QXAS)**
 
-|image3|\ **Figure 3.** Schematic illustration of Quick XAS
+|image3|
+
+**Figure 3.** Schematic illustration of Quick XAS
 
 XAS, which utilizes hard X-rays and can be measured at room temperature
 and normal pressure, is advantageous for in situ/operando analyses. By
@@ -97,7 +101,9 @@ progress and application of QXAS in the field.
 
 **2.3 X-ray Emission Spectroscopy (XES)**
 
-|image4|\ **Figure 4**. Schematic illustration of XES
+|image4|
+
+**Figure 4.** Schematic illustration of XES
 
 XES with high energy resolution is increasingly pivotal for gaining
 insights into electronic and coordination structures by detecting X-ray
@@ -197,7 +203,7 @@ is essential for maintaining optimal performance. Further details are
 provided in the ‘Front End’ section of this report.
 
 5. Beamline Layout
-------------------
+-----------------
 
 **Table 2** includes the design goals of the beamline. The beamline
 layout is designed to meet these goals and satisfy users’ demands
@@ -205,107 +211,107 @@ regarding QXAS and XES.
 
 **Table 2**. Beamline design goals
 
-+------------------+---------------+----------------------------------+
-| **Light Source** | In-vacuum     |                                  |
-|                  | Undulator     |                                  |
-|                  | (IVU24, 3m)   |                                  |
-+==================+===============+==================================+
-| **Energy Range** | 4 - 40 keV    |                                  |
-+------------------+---------------+----------------------------------+
-| **Measurement    | Quick XAFS    | ~ 50 ms                          |
-| time for one     |               |                                  |
-| EXAFS data**     |               |                                  |
-+------------------+---------------+----------------------------------+
-|                  | Normal XAFS   | ~ 3 min (on-the-fly scan)        |
-|                  |               |                                  |
-|                  |               | ~ 20 min (step scan)             |
-+------------------+---------------+----------------------------------+
-| **Energy         | ~ 1.4 ×       |                                  |
-| resolution       | 10\ :sup:`-4` |                                  |
-| (ΔE/E)**         | Si (111) / ~  |                                  |
-|                  | 3 ×           |                                  |
-|                  | 10\ :sup:`-5` |                                  |
-|                  | Si (311)      |                                  |
-+------------------+---------------+----------------------------------+
-| **Beam size at   | 18 (H) × 8    |                                  |
-| sample position  | (V)           |                                  |
-| (@ 10 keV)**     | μm\ :sup:`2`  |                                  |
-|                  | (focused      |                                  |
-|                  | beam, @ 75 m) |                                  |
-|                  |               |                                  |
-|                  | 1020 (H) ×    |                                  |
-|                  | 810 (V)       |                                  |
-|                  | μm\ :sup:`2`  |                                  |
-|                  | (unfocused    |                                  |
-|                  | beam, @ 60 m) |                                  |
-+------------------+---------------+----------------------------------+
-| **Beam flux at   | Tuned         | ~ 9 × 10\ :sup:`13` (@ 5 keV)    |
-| sample position  | Undulator     |                                  |
-| (ph/s)**         |               | ~ 4 × 10\ :sup:`12` (@ 40 keV)   |
-+------------------+---------------+----------------------------------+
-|                  | Tapered       | ~ 2 × 10\ :sup:`12` (@ 7 keV)    |
-|                  | Undulator     |                                  |
-|                  |               | ~ 3 × 10\ :sup:`11` (@ 25 keV)   |
-+------------------+---------------+----------------------------------+
-| **Main           | - High Heat   |                                  |
-| equipment**      | Load Mirror   |                                  |
-|                  | (HHLM)        |                                  |
-|                  |               |                                  |
-|                  | -             |                                  |
-|                  | Co            |                                  |
-|                  | ntinuous-scan |                                  |
-|                  | Double        |                                  |
-|                  | Crystal       |                                  |
-|                  | Monochromator |                                  |
-|                  | (C-DCM)       |                                  |
-|                  |               |                                  |
-|                  | - 60 Hz Quick |                                  |
-|                  | Double        |                                  |
-|                  | Crystal       |                                  |
-|                  | Monochromator |                                  |
-|                  | (Quick DCM)   |                                  |
-|                  |               |                                  |
-|                  | - Energy      |                                  |
-|                  | Dispersive    |                                  |
-|                  | Fluorescence  |                                  |
-|                  | Detector      |                                  |
-|                  |               |                                  |
-|                  | -             |                                  |
-|                  | Fast-response |                                  |
-|                  | Gas           |                                  |
-|                  | Ionization    |                                  |
-|                  | Chambers      |                                  |
-|                  |               |                                  |
-|                  | - 2D Position |                                  |
-|                  | Sensitive     |                                  |
-|                  | Detector (2D  |                                  |
-|                  | PSD)          |                                  |
-+------------------+---------------+----------------------------------+
-| **Experimental   | -             |                                  |
-| equipment**      | Hi            |                                  |
-|                  | gh-throughput |                                  |
-|                  | sample holder |                                  |
-|                  | & Sample      |                                  |
-|                  | auto-changing |                                  |
-|                  | system        |                                  |
-|                  |               |                                  |
-|                  | - von Hamos   |                                  |
-|                  | spectrometer  |                                  |
-+------------------+---------------+----------------------------------+
-|                  | In situ       | - Electrochemistry & Battery     |
-|                  | experiments   | cell                             |
-|                  |               |                                  |
-|                  |               | - Cryogenic cooling cell (> -196 |
-|                  |               | ℃)                               |
-|                  |               |                                  |
-|                  |               | - Heating cell (< 1200 ℃)        |
-|                  |               |                                  |
-|                  |               | - High-temperature cell for      |
-|                  |               | thermocatalysis (heating & gas   |
-|                  |               | environment)                     |
-|                  |               |                                  |
-|                  |               | - Mass analyzer                  |
-+------------------+---------------+----------------------------------+
++-----------------+---------------+-----------------------------------+
+| **Light         | In-vacuum     |                                   |
+| Source**        | Undulator     |                                   |
+|                 | (IVU24, 3m)   |                                   |
++=================+===============+===================================+
+| **Energy        | 4 - 40 keV    |                                   |
+| Range**         |               |                                   |
++-----------------+---------------+-----------------------------------+
+| **Measurement   | Quick XAFS    | ~ 50 ms                           |
+| time for one    |               |                                   |
+| EXAFS data**    |               |                                   |
++-----------------+---------------+-----------------------------------+
+|                 | Normal XAFS   | ~ 3 min (on-the-fly scan)         |
+|                 |               |                                   |
+|                 |               | ~ 20 min (step scan)              |
++-----------------+---------------+-----------------------------------+
+| **Energy        | ~ 1.4 ×       |                                   |
+| resolution      | 10\ :sup:`-4` |                                   |
+| (ΔE/E)**        | Si (111) / ~  |                                   |
+|                 | 3 ×           |                                   |
+|                 | 10\ :sup:`-5` |                                   |
+|                 | Si (311)      |                                   |
++-----------------+---------------+-----------------------------------+
+| **Beam size at  | 18 (H) × 8    |                                   |
+| sample position | (V)           |                                   |
+| (@ 10 keV)**    | μm\ :sup:`2`  |                                   |
+|                 | (focused      |                                   |
+|                 | beam, @ 75 m) |                                   |
+|                 |               |                                   |
+|                 | 1020 (H) ×    |                                   |
+|                 | 810 (V)       |                                   |
+|                 | μm\ :sup:`2`  |                                   |
+|                 | (unfocused    |                                   |
+|                 | beam, @ 60 m) |                                   |
++-----------------+---------------+-----------------------------------+
+| **Beam flux at  | Tuned         | ~ 9 × 10\ :sup:`13` (@ 5 keV)     |
+| sample position | Undulator     |                                   |
+| (ph/s)**        |               | ~ 4 × 10\ :sup:`12` (@ 40 keV)    |
++-----------------+---------------+-----------------------------------+
+|                 | Tapered       | ~ 2 × 10\ :sup:`12` (@ 7 keV)     |
+|                 | Undulator     |                                   |
+|                 |               | ~ 3 × 10\ :sup:`11` (@ 25 keV)    |
++-----------------+---------------+-----------------------------------+
+| **Main          | - High Heat   |                                   |
+| equipment**     | Load Mirror   |                                   |
+|                 | (HHLM)        |                                   |
+|                 |               |                                   |
+|                 | -             |                                   |
+|                 | Co            |                                   |
+|                 | ntinuous-scan |                                   |
+|                 | Double        |                                   |
+|                 | Crystal       |                                   |
+|                 | Monochromator |                                   |
+|                 | (C-DCM)       |                                   |
+|                 |               |                                   |
+|                 | - 60 Hz Quick |                                   |
+|                 | Double        |                                   |
+|                 | Crystal       |                                   |
+|                 | Monochromator |                                   |
+|                 | (Quick DCM)   |                                   |
+|                 |               |                                   |
+|                 | - Energy      |                                   |
+|                 | Dispersive    |                                   |
+|                 | Fluorescence  |                                   |
+|                 | Detector      |                                   |
+|                 |               |                                   |
+|                 | -             |                                   |
+|                 | Fast-response |                                   |
+|                 | Gas           |                                   |
+|                 | Ionization    |                                   |
+|                 | Chambers      |                                   |
+|                 |               |                                   |
+|                 | - 2D Position |                                   |
+|                 | Sensitive     |                                   |
+|                 | Detector (2D  |                                   |
+|                 | PSD)          |                                   |
++-----------------+---------------+-----------------------------------+
+| **Experimental  | -             |                                   |
+| equipment**     | Hi            |                                   |
+|                 | gh-throughput |                                   |
+|                 | sample holder |                                   |
+|                 | & Sample      |                                   |
+|                 | auto-changing |                                   |
+|                 | system        |                                   |
+|                 |               |                                   |
+|                 | - von Hamos   |                                   |
+|                 | spectrometer  |                                   |
++-----------------+---------------+-----------------------------------+
+|                 | In situ       | - Electrochemistry & Battery cell |
+|                 | experiments   |                                   |
+|                 |               | - Cryogenic cooling cell (> -196  |
+|                 |               | ℃)                                |
+|                 |               |                                   |
+|                 |               | - Heating cell (< 1200 ℃)         |
+|                 |               |                                   |
+|                 |               | - High-temperature cell for       |
+|                 |               | thermocatalysis (heating & gas    |
+|                 |               | environment)                      |
+|                 |               |                                   |
+|                 |               | - Mass analyzer                   |
++-----------------+---------------+-----------------------------------+
 
 The beamline layout of RXAFS is illustrated in **Figure 6**. The first
 optics after the Front-End is the High Heat Load Mirror (HHLM),
@@ -532,6 +538,394 @@ location from the source.
 |          |           | 2D PSD         |                            |
 +----------+-----------+----------------+----------------------------+
 
+6. Optics Overview
+------------------
+
+**6.1 Optics Specifications**
+
+The detailed specifications for the optics are listed in **Table 4**.
+
+**Table 4**. Optics specifications
+
++-------------+-----------+---------+---------+------------+--------+
+|             | **HHLM**  | *       | **DCM** | **HFM**    | *      |
+|             |           | *QDCM** |         |            | *HRM** |
++=============+===========+=========+=========+============+========+
+| **Distance  | 45        | 48.5    | 50      | 53.5       | 54.35  |
+| from source |           |         |         |            |        |
+| (m)**       |           |         |         |            |        |
++-------------+-----------+---------+---------+------------+--------+
+| **Incident  | 2 mrad    | 4.      | 4.      | 2-3 mrad   | 2-3    |
+| Angle**     |           | 5–30\ : | 5–30\ : |            | mrad   |
+|             |           | sup:`o` | sup:`o` |            |        |
+|             |           |         |         |            |        |
+|             |           | (Si     | (Si     |            |        |
+|             |           | 111)    | 111)    |            |        |
+|             |           |         |         |            |        |
+|             |           | 5.      | 5.      |            |        |
+|             |           | 0–15\ : | 0–15\ : |            |        |
+|             |           | sup:`o` | sup:`o` |            |        |
+|             |           |         |         |            |        |
+|             |           | (Si     | (Si     |            |        |
+|             |           | 311)    | 311)    |            |        |
++-------------+-----------+---------+---------+------------+--------+
+| **Shape**   | Sagittal  | Flat    | Flat    | C          | Flat   |
+|             | cylinder  |         |         | ylindrical |        |
++-------------+-----------+---------+---------+------------+--------+
+| *           | 7 – 40 km | -       | -       | ∞          | 12 –   |
+| *Tangential |           |         |         |            | 25 km  |
+| Radius      | (bender)  |         |         |            |        |
+| (km)**      |           |         |         |            | (b     |
+|             |           |         |         |            | ender) |
++-------------+-----------+---------+---------+------------+--------+
+| **Sagittal  | 180       | -       | -       | 61.4 (2    | ∞      |
+| Radius      |           |         |         | mrad):     |        |
+| (mm)**      |           |         |         |            |        |
+|             |           |         |         | [Rh 5      |        |
+|             |           |         |         | nm/Pt 50   |        |
+|             |           |         |         | nm]        |        |
+|             |           |         |         |            |        |
+|             |           |         |         | 92.0 (3    |        |
+|             |           |         |         | mrad):     |        |
+|             |           |         |         | [Si]       |        |
++-------------+-----------+---------+---------+------------+--------+
+| **Surface   | H         | V       |         |            |        |
+| Normal      | orizontal | ertical |         |            |        |
+| direction** |           |         |         |            |        |
++-------------+-----------+---------+---------+------------+--------+
+| **          | Si        | Si(111) | Si(111) | Si         | Si     |
+| Substrate** |           | /       | /       |            |        |
+|             |           | Si(311) | Si(311) |            |        |
++-------------+-----------+---------+---------+------------+--------+
+| **Coating   | [Rh 5     | -       | -       | [Si]       | [Si]   |
+| Materials** | nm/Pt 50  |         |         |            |        |
+|             | nm]       |         |         | [Rh 5      | [Rh 5  |
+| **          |           |         |         | nm/Pt 50   | nm/Pt  |
+| (Thickness, |           |         |         | nm]        | 50     |
+| nm)**       |           |         |         |            | nm],   |
+|             |           |         |         |            |        |
+|             |           |         |         |            | [Pt 50 |
+|             |           |         |         |            | nm]    |
++-------------+-----------+---------+---------+------------+--------+
+| **Beam size | 1200×1160 | 12      | 13      | 1410×1170  | 136    |
+| (H×V)**     |           | 90×1190 | 30×1190 |            | 0×1120 |
+|             |           |         |         |            |        |
+| **@ 10      |           |         |         |            |        |
+| keV**       |           |         |         |            |        |
+|             |           |         |         |            |        |
+| **(μm×μm)** |           |         |         |            |        |
++-------------+-----------+---------+---------+------------+--------+
+| **Footprint | 600×1.2   | 18×1.2  | 18×1.2  | 600×1.2    | 6      |
+| (L × H)**   |           |         |         |            | 00×1.2 |
+|             |           |         |         |            |        |
+| **(mm×mm)** |           |         |         |            |        |
++-------------+-----------+---------+---------+------------+--------+
+| **Substrate | 800×50×55 | 5       | 6       | 600×60×50  | 800    |
+| size**      |           | 5×40×50 | 0×25×50 |            | ×50×50 |
+|             |           |         |         |            |        |
+| **(L×W×H)** |           | (1\ :s  | (1\ :s  |            |        |
+|             |           | up:`st` | up:`st` |            |        |
+| **(         |           | c       | c       |            |        |
+| mm×mm×mm)** |           | rystal) | rystal) |            |        |
++-------------+-----------+---------+---------+------------+--------+
+| **Focus     | ∞         | -       | -       | 21.5 m     | ∞      |
+| distance**  |           |         |         |            |        |
+|             |           |         |         |            |        |
+| **(m)**     |           |         |         |            |        |
++-------------+-----------+---------+---------+------------+--------+
+| *           | < 0.3 nm  | < 1 μm  | < 1 μm  | < 0.3 nm   | < 0.3  |
+| *Roughness, |           |         |         |            | nm     |
+| σ**         |           |         |         |            |        |
+|             |           |         |         |            |        |
+| *           |           |         |         |            |        |
+| *(r.m.s.)** |           |         |         |            |        |
++-------------+-----------+---------+---------+------------+--------+
+| **Slope     | <1.5/<5.0 | <1      | <1      | <1.5/<5.0  | <0.2   |
+| error**     |           |         |         |            | 5/<1.0 |
+|             |           |         |         |            |        |
+| **          |           |         |         |            |        |
+| (Tangential |           |         |         |            |        |
+| /           |           |         |         |            |        |
+| sagittal)** |           |         |         |            |        |
+|             |           |         |         |            |        |
+| **(μrad,    |           |         |         |            |        |
+| r.m.s.)**   |           |         |         |            |        |
++-------------+-----------+---------+---------+------------+--------+
+| **Max total | 16.3      | 56.1    | 52.8    | -          | -      |
+| heat load** |           |         |         |            |        |
+|             |           |         |         |            |        |
+| **(W)**     |           |         |         |            |        |
++-------------+-----------+---------+---------+------------+--------+
+| **Max       | 0.0326    | 28.1    | 26.4    | -          | -      |
+| surface     |           |         |         |            |        |
+| heat load** | (@4 keV)  | (@4     | (@4     |            |        |
+|             |           | keV)    | keV)    |            |        |
+| **(W        |           |         |         |            |        |
+| mm\ -2)**   |           |         |         |            |        |
++-------------+-----------+---------+---------+------------+--------+
+
+**6.2 High Heat Load Mirror (HHLM)**
+
+The HHLM, located at 45 m from the source, will serve the following
+purposes:
+
+-  Beam collimation
+
+-  High heat load management
+
+.. figure:: ID23_RTXAFS/media/image7.png
+   :width: 3.35553in
+   :height: 2.56962in
+
+   Figure 7. Reflectivity curve of the HHLM
+
+HHLM will be the first optical component of the RXAFS beamline. To
+deliver photon beams with an energy range of 4-40 keV, Rh 5 nm/Pt 50 nm
+bilayer will be used as a coating material for the mirror surface. The
+incident angle of the beam will be set at 2 mrad and will be fixed
+during operation to satisfy the ease of the beam alignment process.
+**Figure 7** shows the reflectivity curve of the HHLM corresponding to
+photon energy, with no noticeable reflectivity decrease across the
+entire energy range of 4-40 keV. The HHLM reflects the beam horizontally
+and is cylindrical in the sagittal direction of the mirror crystal.
+Accordingly, it can collimate a beam vertically, thereby enhancing the
+energy resolution of a monochromatic beam and reducing flux loss due to
+the limited Darwin width of the Si crystal in the monochromator.
+
+**6.3 Quick Double Crystal Monochromator (QDCM)**
+
+The QDCM, located at 48.5 m from the source, will serve the following
+purposes:
+
+-  Quick-monochromatization
+
+The crystal stage of QDCM will consist of two liquid nitrogen-cooled
+channel-cut crystals (Si (111) and Si (311)) placed next to each other,
+and the crystals can be switched depending on the photon energy to be
+used. The QDCM will have a maximum scanning speed of 60 Hz, enabling XAS
+measurements every ten milliseconds when XAS data are obtained in both
+forward and reverse scanning directions. The typical measurement time
+for XAS using standard DCM is a few seconds to a few minutes. It is
+important to note that QDCM is crucial for the RXAFS beamline because
+the main goal of the beamline is to provide real-time measurement
+methods during various in situ/operando experiments.
+
+**Table 5**. Motor specifications
+
++-----------------+--------------------------+------+------------------+
+| **Scan mode**   | **Movement**             | *    | **Motor Speed**  |
+|                 |                          | *Ran |                  |
+|                 |                          | ge** | **(frequency**)  |
++=================+==========================+======+==================+
+| Bragg angle     | Goniometer step motor    | 4° ~ | 1° s\ :sup:`-1`  |
+|                 |                          | 25°  |                  |
+| Step mode       |                          |      | (~ 0.2 keV       |
+| (θ\ :sub:`S`)   |                          |      | s\ :sup:`-1` @ 5 |
+|                 |                          |      | keV)             |
+|                 |                          |      |                  |
+|                 |                          |      | (~ 1 keV         |
+|                 |                          |      | s\ :sup:`-1` @   |
+|                 |                          |      | 10 keV)          |
++-----------------+--------------------------+------+------------------+
+| Bragg angle     | Torque motor on the the  | ±    | 0.1 ~ 60 Hz      |
+|                 | goniometer               | 2.1° |                  |
+| Fast scan mode  |                          |      |                  |
+| (θ\ :sub:`F`)   |                          |      |                  |
++-----------------+--------------------------+------+------------------+
+
+QDCM will be operated at various Bragg rotation speeds using two types
+of motors: a Goniometer step motor and a torque motor on the goniometer.
+**Table 5** provides a summary of each motor's specifications. The
+choice of motor type depends on the chemical reaction rate of the
+reaction system being studied. The photon energy from the source can be
+adjusted by tuning the magnetic gap of the undulator. However, changing
+the photon energy of a beam from the undulator at a speed required by
+QDCM is challenging. Therefore, it is crucial to perform undulator
+tapering, which widens the energy bandwidth of the photon beam, when
+using QDCM.
+
+**6.3 Double Crystal Monochromator (DCM)**
+
+The DCM, located at 50 m from the source, will serve the following
+purposes:
+
+-  Monochromatization
+
+The crystal stage of DCM will consist of two liquid nitrogen-cooled Si
+crystals (Si (111) and Si (311)) placed next to each other. The crystals
+can be interchanged based on the photon energy needed. The DCM will be
+utilized for standard XAS, with a measurement time ranging from a few
+seconds to several minutes. Additionally, XES measurements, which
+require a stable beam during the procedure, will be performed using this
+DCM. The angular stability over an extended period (hours to days)
+should be maintained within a variation of about 20-50 nrad to ensure
+beam stability.
+
+|image7|
+
+Figure 8. Darwin width curve of Si (111)
+
+After passing through the double crystal monochromator (DCM), the
+monochromatic beam may contain high-order harmonics that share the same
+diffraction condition with the desired beam energy. This issue can be
+overcome by slightly detuning the 2\ :sup:`nd` crystal of the DCM to
+reject the high-order harmonics. In **Figure 8**, the Darwin width
+curves of the Si (111) crystal are depicted regarding two different
+harmonic energies. By detuning the 2\ :sup:`nd` crystal by approximately
+70 µrad relative to the Bragg axis, it is possible to effectively
+suppress the high-order harmonic due to differences in reflectivity of
+each harmonic energy.
+
+The energy resolution of the monochromatic beam passed through the DCM
+can be determined using the following equation:
+:math:`\frac{\mathrm{\Delta}E}{E} = cot\theta_{B}\left\lbrack \omega_{D}^{2} + \varphi^{2} \right\rbrack^{\frac{1}{2}}\ `
+
+In this equation, *θ*\ :sub:`B`, *ω*\ :sub:`D`, and *φ* represent the
+Bragg angle, the Darwin width of the Si crystals, and the photon beam
+divergence, respectively. **Table 6** provides an overview of the
+calculated energy resolution of the RXAFS beamline, considering the
+effects of both collimated and uncollimated beams. For Si (111), the
+energy resolution with a collimated beam is smaller than the natural
+bandwidth for a specific element, indicating the possibility of
+obtaining undistorted XAS data. Conversely, if the beam is not
+collimated, the energy resolution may exceed the natural bandwidth,
+potentially distorting the XAS data.
+
+For a beam obtained from a Si (311) crystal, the energy resolution is
+smaller than the natural bandwidth for a specific element. However, it
+is important to note that the Darwin width of the Si (311) crystal in
+the energy range of 15 keV to 40 keV is within the range of 7.9 - 2.8
+μrad (FWHM). The vertical divergence of the photon beam from the source
+in the same energy range is approximately 26 μrad (FWHM). Significant
+flux losses may occur in these cases due to the small Darwin width of
+the Si (311) crystal compared with the photon beam divergence.
+Therefore, a collimated beam is required to mitigate flux losses by
+effectively reducing photon beam divergence in this case.
+
+**Table 6**. The calculated energy resolution of a monochromatic beam
+
++------+-----------+-----------+----------+--------+-------+---------+
+| **Si |           |           | **Edge   | **     | **Δ   | **      |
+| (11  |           |           | Energy** | ΔE/E** | E/E** | Natural |
+| 1)** |           |           |          |        |       | Band    |
+|      |           |           | *        | *      | **    | width** |
+|      |           |           | *(keV)** | *(w.o. | (with |         |
+|      |           |           |          | co     | coll  | *       |
+|      |           |           |          | llimat | imati | *(FWHM, |
+|      |           |           |          | ion)** | on)** | eV)**   |
++======+===========+===========+==========+========+=======+=========+
+| **En | **ΔE/E    | **ΔE/E    |          |        |       |         |
+| ergy | (         | (         |          |        |       |         |
+| (ke  | 10\ -4)** | 10\ -4)** |          |        |       |         |
+| V)** |           |           |          |        |       |         |
+|      | **(w.o.   | **(with   |          |        |       |         |
+|      | colli     | colli     |          |        |       |         |
+|      | mation)** | mation)** |          |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| 5    | 1.56      | 1.4       | Ti K     | 0.77   | 0.70  | 0.94    |
+|      |           |           | (4.966)  |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| 10   | 1.94      |           | Zn K     | 1.87   | 1.35  | 1.67    |
+|      |           |           | (9.659)  |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| 15   | 2.46      |           | Rb K     | 3.74   | 2.13  | 2.99    |
+|      |           |           | (15.200) |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| 20   | 3.04      |           | Mo K     | 6.08   | 2.80  | 4.52    |
+|      |           |           | (20.000) |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| 25   | 3.50      |           | Pd K     | 8.52   | 3.41  | 6.24    |
+|      |           |           | (24.350) |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+|      |           |           |          |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| **Si |           |           | **Edge   | **     | **Δ   | **      |
+| (31  |           |           | energy** | ΔE/E** | E/E** | Natural |
+| 1)** |           |           |          |        |       | Band    |
+|      |           |           | *        | *      | **    | Width** |
+|      |           |           | *(keV)** | *(w.o. | (with |         |
+|      |           |           |          | co     | coll  | *       |
+|      |           |           |          | llimat | imati | *(FWHM, |
+|      |           |           |          | ion)** | on)** | eV)**   |
++------+-----------+-----------+----------+--------+-------+---------+
+| **En | **ΔE/E    | **ΔE/E    |          |        |       |         |
+| ergy | (         | (         |          |        |       |         |
+| (ke  | 10\ -4)** | 10\ -4)** |          |        |       |         |
+| V)** |           |           |          |        |       |         |
+|      | **(w.o.   | **(with   |          |        |       |         |
+|      | colli     | colli     |          |        |       |         |
+|      | mation)** | mation)** |          |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| 15   | 1.06      | 0.3       | Rb K     | 1.61   | 0.46  | 2.99    |
+|      |           |           | (15.200) |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| 20   | 1.41      |           | Mo K     | 2.82   | 0.60  | 4.52    |
+|      |           |           | (20.000) |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| 25   | 1.68      |           | Pd K     | 4.09   | 0.73  | 6.24    |
+|      |           |           | (24.350) |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| 30   | 2.04      |           | Sb K     | 6.22   | 0.91  | 9.16    |
+|      |           |           | (30.491) |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| 35   | 2.40      |           | Cs K     | 8.64   | 1.08  | 12.3    |
+|      |           |           | (35.985) |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+| 40   | 2.76      |           | Ce K     | 11.2   | 1.21  | 15.1    |
+|      |           |           | (40.443) |        |       |         |
++------+-----------+-----------+----------+--------+-------+---------+
+
+The scanning speed of the Bragg angle for this DCM should be adjustable
+from 0.001°/sec to 4°/sec without requiring any hardware or software
+modifications. This flexibility enables us to swiftly switch between
+measurement modes. Additionally, the beam offset should match that of
+the QDCM, facilitating easy optical alignment when switching between the
+two monochromators. Several manufacturers meet these specified criteria.
+
+**6.4 Horizontal Focusing Mirror (HFM)**
+
+The HFM, located at 53.5 m from the source, will serve the following
+purposes:
+
+-  Beam focusing in a horizontal direction
+
+-  High harmonic rejection
+
+|image8|
+
+Figure 9. Reflectivity curve of the HFM
+
+The Horizontal Focusing Mirror (HFM) is designed to reflect the beam
+vertically (up-bounce) and has a sagittal cylindrical shape, allowing it
+to focus the beam horizontally. It consists of two mirror surfaces with
+different coatings and sagittal radii, enabling it to focus the beam and
+reject high harmonics by adjusting the incident angle. **Figure 9**
+illustrates the reflectivity curve of the HFM with two mirror surfaces:
+a Rh 5 nm/Pt 50 nm bilayer and Si, for incident angles of 2 mrad and 3
+mrad, respectively. The RXAFS beamline will deliver a photon beam with
+energies starting from 4 keV. Therefore, it is essential to remove high
+harmonics when using the beam around this energy. When users need to
+adjust the photon energy across a wide range of 4-40 keV in a single
+beamtime, they will use a mirror with a Rh 5 nm/Pt 50 nm coating in a
+fixed mode. Harmonic rejection will then be achieved by detuning the
+2\ :sup:`nd` crystal of the DCM for beamline management. By allowing
+users to easily switch between different photon energies, the HFM
+provides a flexible and efficient solution for a wide range of
+experimental requirements.
+
+**6.4 Harmonic Rejection Mirror (HRM)**
+
+The HRM, located at 54.35 m from the source, will serve the following
+purposes:
+
+-  Beam focusing in a vertical direction
+
+-  High harmonic rejection
+
+The Horizontal Focusing Mirror (HRM) is designed to reflect the beam
+vertically (down-bounce) and has an originally flat shape, allowing it
+to focus the beam vertically using the bender.
+
 .. |image1| image:: ID23_RTXAFS/media/image1.png
    :width: 4.42309in
    :height: 2.79861in
@@ -548,5 +942,11 @@ location from the source.
    :width: 5.26154in
    :height: 2.04434in
 .. |image6| image:: ID23_RTXAFS/media/image6.png
-   :width: 6.26667in
-   :height: 3.39167in
+   :width: 6.26806in
+   :height: 3.39375in
+.. |image7| image:: ID23_RTXAFS/media/image8.png
+   :width: 2.79114in
+   :height: 2.46892in
+.. |image8| image:: ID23_RTXAFS/media/image9.png
+   :width: 3.32639in
+   :height: 2.56057in
