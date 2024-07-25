@@ -483,6 +483,6 @@ quality-enhancing effects.
 .. |image2| image:: BM10_HEM/media/image5.png
    :width: 6.29921in
    :height: 1.63519in
-.. |image3| image:: BM10_HEM/media/image6.emf
+.. |image3| image:: BM10_HEM/media/image6.png
    :width: 6.26806in
    :height: 3.01714in
