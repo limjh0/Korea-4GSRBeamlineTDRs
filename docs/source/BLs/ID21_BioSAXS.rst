@@ -414,7 +414,7 @@ Table x. specification of DCM in BioPharma-BioSAXS beamline
 Beam flux and beam profile at each optics
 
 Reference 
-==========
+----------
 
 [1] FEBS Letters, 589, 2570-2577 (2015)
 
