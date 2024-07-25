@@ -13,27 +13,27 @@ for quantitative nanoscale analysis of the element distribution and
 quantity of materials in localized regions. The energy range of 5 to 25
 keV enables quantitative nano-spectroscopy for most transition metals
 and rare earth metals. Additionally, the high penetration power of hard
-X-rays can pass through gas environments and windows required for
-maintaining these environments, allowing for the study of materials
-under synthesis and operating conditions. To facilitate such research,
-the nanoprobe beamline is designed to provide a long working distance of
-50 mm despite the small beam size in the tens of nanometer range. This
-makes it easy to insert devices that offer various conditions, such as
-high and low temperature, gas environments, liquid environment sample
-delivery, and the application of electric or magnetic fields, enabling
-in-situ/operando materials research. The scientific focus of the
-nanoprobe is on tracking the reactions and defect growth processes of
-battery and catalyst systems, or the quantitative nanoscale analysis of
+X-rays can pass through gas environments and windows for maintaining
+environments. This allows for the study of materials under synthesis and
+operating conditions. To facilitate such research, the nanoprobe
+beamline is designed to provide a long working distance of 50 mm despite
+the small beam size in the tens of nanometer range. This makes it easy
+to insert devices that offer various conditions, such as high and low
+temperature, gas environments, liquid environment sample delivery, and
+the application of electric or magnetic fields, enabling
+in-situ/operando materials research. The scientific objectives of the
+nanoprobe are on tracking the reactions and defect growth processes of
+battery and catalyst systems, and the quantitative nanoscale analysis of
 complex functional materials and material systems in actual
-manufacturing and operating environments. Additionally, to accommodate
-with the trend of scaling up systems by spreading and stacking
-nano-components for enhanced reactivity or performance, we have
-introduced high-speed precision nano-stages, allowing us to investigate
-larger areas at the nanoscale. The measurement equipment includes X-ray
-fluorescence detectors and signal detectors, providing quantitative
-simultaneous information on the electron density, strain, and element
-distribution of the sample, with all measurements designed to be studied
-in three dimensions.
+manufacturing and operating environments. Also, to accommodate with the
+trend of scaling up systems by spreading and stacking nano-components
+for enhanced reactivity and performance, we have introduced high-speed
+precision nano-stages, allowing us to investigate larger areas at the
+nanoscale. The signal recording equipment includes X-ray fluorescence
+detectors and signal detectors, providing quantitative simultaneous
+information on the electron density, strain, and element distribution of
+the sample, with all experiments designed to be studied in three
+dimensions.
 
 3. Beamline Requirements for the Insertion Device
 -------------------------------------------------
@@ -41,10 +41,10 @@ in three dimensions.
 The nanoprobe beamline provides an energy range of 5-25 keV using an
 In-Vacuum Undulator(IVU). IDs of Nanoprobe are designed to give the
 highest brilliance in this range without losing energy continuity. The
-parameters for the IDs are detailed in the table below. The maximum
-power represents the maximum beam power passing through a mask with a 2
-x 2 mm² opening @ 23 m under the maximum current conditions(400 mA)
-[Table 1].
+parameters for the IDs are detailed in Table 1. The maximum power
+represents the maximum beam power passing through a mask with a 2 x 2
+mm² opening @ 23 m under the maximum current conditions(400 mA) [Table
+1].
 
 +---------+---------+---------+--------------------+--------+--------+
 | **Undu  | *       | *       | **Location**       | **Max  | **Min. |
@@ -58,7 +58,7 @@ x 2 mm² opening @ 23 m under the maximum current conditions(400 mA)
 Table 1. Parameters of insertion device
 
 4. Beamline Requirements for the Front End
--------------------------------------------
+------------------------------------------
 
 The FE of the nanoprobe beamline is required to 1) handle a 17 kW heat
 load, 2) beam position diagnostics, and 3) radiation safety. First, the
@@ -69,20 +69,20 @@ with a fixed aperture size in horizontal direction that can only have
 its position adjusted. For detailed specifications of the masks, refer
 to Chapter []. Note that although the IDs have a minimum gap of 5 mm,
 the effective minimum gap required to provide the 5-25 keV range is 6
-mm. Consequently, the maximum total power of nanoprobe IDs is 12 kW.
-Secondly, the FE includes an X-ray beam position diagnostic device. In
-the first phase, the diagnostic X-ray beam position will be used to
-provide feedback for slit and optics angles, ensuring the stability of
-the beam position delivered to the sample within < 10% of the beam size.
-In the mature phase, the diagnostic X-ray beam position will also be
-integrated with the electron beam feedback system to enhance
-performance. For detailed specifications of the diagnostic device, refer
-to Chapter []. Lastly, the FE is equipped with safety devices to protect
-against gamma radiation and electron beam insertion in FE. Specifically,
-a safety magnet with a strength of 0.5 T is installed to handle
-scenarios where the electron beam enters the FE. This ensures that any
-electron beam inserted into the FE is deflected horizontally and
-prevented from reaching the optical hutch.
+mm. Consequently, the effective maximum total power of nanoprobe IDs is
+12 kW. Secondly, the FE includes an X-ray beam position diagnostic
+device. In the first phase, the diagnostic X-ray beam position will be
+used to provide feedback for slits position, ensuring the stability of
+the beam intensity delivered to the sample within 10%. In the mature
+phase, the diagnostic X-ray beam position will also be integrated with
+the electron beam feedback system to enhance performance. For detailed
+specifications of the diagnostic device, refer to Chapter []. Lastly,
+the FE is equipped with safety devices to protect against gamma
+radiation and electron beam insertion in FE. Especifically, a safety
+magnet with a strength of 0.5 T is installed to handle scenarios where
+the electron beam enters the FE. This ensures that any electron beam
+inserted into the FE is deflected horizontally and prevented from
+reaching the optical hutch.
 
 5. Beamline Layout
 -----------------
@@ -143,18 +143,11 @@ developed for the Korea-4GSR construction.
 | 28.0     | White beam slit          | Up |                          |
 |          |                          | to |                          |
 |          |                          | 4  |                          |
-|          |                          | k  |                          |
-|          |                          | W/ |                          |
-|          |                          | C  |                          |
-|          |                          | en |                          |
-|          |                          | tr |                          |
-|          |                          | al |                          |
-|          |                          | co |                          |
-|          |                          | ne |                          |
-|          |                          | tr |                          |
-|          |                          | an |                          |
-|          |                          | sf |                          |
-|          |                          | er |                          |
+|          |                          | kW |                          |
+|          |                          | he |                          |
+|          |                          | at |                          |
+|          |                          | lo |                          |
+|          |                          | ad |                          |
 +----------+--------------------------+----+--------------------------+
 | 28.8     | Diamond screening        | Re |                          |
 |          | monitor                  | so |                          |
@@ -251,7 +244,7 @@ developed for the Korea-4GSR construction.
 |          |                          | rr |                          |
 |          |                          | or |                          |
 |          |                          |    |                          |
-|          |                          | 2  |                          |
+|          |                          | 3  |                          |
 |          |                          | -s |                          |
 |          |                          | tr |                          |
 |          |                          | ip |                          |
@@ -387,9 +380,8 @@ developed for the Korea-4GSR construction.
 |          |                          | ti |                          |
 |          |                          | on |                          |
 |          |                          | <  |                          |
-|          |                          | 10 |                          |
-|          |                          | n  |                          |
-|          |                          | mr |                          |
+|          |                          | 50 |                          |
+|          |                          | nr |                          |
 |          |                          | ad |                          |
 +----------+--------------------------+----+--------------------------+
 | 58.0     | Secondary source         | G  |                          |
@@ -501,7 +493,9 @@ developed for the Korea-4GSR construction.
 |          |                          | m, |                          |
 |          |                          | P  |                          |
 |          |                          | t, |                          |
-|          |                          | Rh |                          |
+|          |                          | R  |                          |
+|          |                          | h, |                          |
+|          |                          | Si |                          |
 |          |                          | c  |                          |
 |          |                          | oa |                          |
 |          |                          | ti |                          |
@@ -531,14 +525,14 @@ nanoprobe beamline. For parameters related to the electron beam, refer
 to the chapter []. All optical simulations were performed in ShadowOui
 with the OASYS environment. The simulations for the optical components
 were primarily conducted at 10 keV, which is expected to be frequently
-used, and also at 20 keV for comparison. Note that the beam source
+used, and also at 20 keV for comparison. Note that the X-ray beam source
 parameters provided by the OASYS environment do not take into account
-the electron energy dispersion. This means that at high energies (high
-harmonics), the divergence angle of the beam is more than twice that of
-the diffraction limit. Therefore, we use the source parameters provided
-by SPECTRA as a Geometry source in OASYS. Also, the coherent length (BDA
-size) and coherent flux calculations were conducted using homemade code
-in the Matlab environment.
+the electron energy dispersion. This means that the divergence angle of
+the beam is smaller than twice at high energies (high harmonics). Thus,
+we use the source parameters provided by SPECTRA as a Geometry source in
+OASYS. Also, the coherent length (BDA gap size) and coherent flux
+calculations were conducted using homemade code in the Matlab
+environment.
 
 **Beam specification**
 
@@ -557,16 +551,15 @@ represents the coherence size of the beam focused at the BDA position,
 which is a crucial factor for coherence diffraction(scattering)
 experiments (e.g., Ptychography, XPCS). [Table 4] shows the coherence
 fraction, which is the ratio of the total flux to the coherent flux in a
-mono beam (0.01% Bandwidth). Where coherent flux is the flux passing
-through the BDA when it is opened to the coherence length. [Figure 2]
-shows the expected coherent flux delivered to the sample, taking into
-account mirror reflectivity, number of reflections, BDA size, angular
-acceptance of the nanofocusing optics, and the polarization effect of
-the HDCM.
+mono beam. Coherent flux is the flux passing through the BDA when it is
+opened to the coherence length. [Figure 2] shows the expected coherent
+flux delivered to the sample, taking into account mirror reflectivity,
+number of reflections, BDA size, angular acceptance of the nanofocusing
+optics, and the polarization effect of the HDCM.
 
 +---------+-------------------+-------------------+-------------------+
 | **E     | **Coherent flux   | **Total flux      | **Coherent        |
-| nergy** | (phs/s/0.01%)**   | (phs/s/0.01%)**   | fraction**        |
+| nergy** | (phs/s)**         | (phs/s)**         | fraction**        |
 +=========+===================+===================+===================+
 | 10 keV  | 4.85 x            | 7.42 x            | 6.5 %             |
 |         | 10\ :sup:`12`     | 10\ :sup:`13`     |                   |
@@ -579,7 +572,8 @@ the HDCM.
 
 |image2|
 
-[Figure 2] Coherent flux @ sample position
+[Figure 2] Total photon flux(red) and photon flux of single coherence
+mode(blue) @ sample position
 
 **Consideration for optical layout**
 
@@ -628,26 +622,32 @@ shielding wall is 29 m from the source, and thus BDA optimal position is
 [Table 5] The coherence length and RMS beam size at the BDA for
 different magnification ratios.
 
-Second, the design ensures that the beam's peak heat density on the DCM
-is kept below 40 W/mm². This is to prevent thermal bumps and damage to
-the first crystal. To reduce the heat density, beamlines of Korea-4GSR
-adopt two strategies. The first is to locate the DCM crystal more than
-50 m away from the source. This approach minimizes the number of optical
-components. This prevents wavefront distortion caused by imperfections
-of mirror surface and beam instability caused by optics vibrations.
-However, this strategy cannot optimize the beam flux, because it can
-only obtain to not cause thermal bump. The second strategy uses mirrors
-to absorb the heat load. This has the drawback of needing to correct the
-thermal bump caused by the heat load [Figure 4]. But, this approach can
+Second, the design ensures that the peak heat density on the DCM is kept
+below 40 W/mm². This is to prevent thermal bumps and damage of the first
+crystal. To reduce the heat density, beamlines of Korea-4GSR adopt two
+strategies. The first is to locate the DCM crystal more than 50 m away
+from the source. This approach minimizes the number of optical
+components. Also, this prevents wavefront distortion caused by
+imperfections of mirror surface and beam instability caused by optics
+vibrations. However, this strategy cannot optimize the beam flux.
+Because it can only accept a limited beam flux that does not cause
+thermal bumps. The second is using a High Heat Load Mirror(HHML). This
+has the drawback of needing to correct the thermal bump [Figure 4].
+Thermal bump correction strategy using a benting pre-focusing mirror can
 provide high beam flux above 10\ :sup:`12` phs/s (Coherence flux:
->10\ :sup:`11` phs/s @ 10 keV). We have chosen the second strategy to
-provide optimized high beam flux.
+>10\ :sup:`11` phs/s @ 10 keV). One of the objectives of a nanoprobe
+beamline is to rapidly investigate a wide sample in nanoscale
+resolution, as mentioned in the scientific objective section. To achieve
+this, beam flux maximization is necessary. Thus, we have chosen the
+second strategy.
 
 |image4|
 
 [Figure 4] Mirror surface profile caused by thermal bumps on the M1
-mirror. Bend M2 to correct the focused beam size at the BDA to be closer
-to the ideal size.
+mirror. The mirror slope error graph shows the thermal bump profile when
+the maximum total power is delivered to the HHLM with the notch design
+applied. Bend M2 to correct the focused beam size at the BDA to be
+closer to the ideal size.
 
 **Optics Specification**
 
@@ -683,36 +683,44 @@ to the ideal size.
 | Slope error      | < 0.2          | < 0.2          | < 1            |
 | (μrad, RMS)      |                |                |                |
 +------------------+----------------+----------------+----------------+
-| Max total heat   | 36.4           | 20.6           | 102            |
+| Max. total heat  | 36.4           | 20.6           | 102            |
 | load (W)         |                |                |                |
 +------------------+----------------+----------------+----------------+
-| Max surface head | 0.093          | 0.016          | < 40           |
-| load             |                |                |                |
+| Max. surface     | 0.093          | 0.016          | < 40           |
+| head load        |                |                |                |
 | (W/mm\ :sup:`2`) |                |                |                |
 +------------------+----------------+----------------+----------------+
 
-[Table 6] KB mirror specification
+[Table 6] M1, M2 mirrors specification
 
 [Table 6] lists the specifications of the mirrors used in the nanoprobe
 beamline. The specifications of the M1 and M2 mirrors are designed to
 focus the beam on the BDA located at 58 m. The slope error tolerance is
-set to ensure that the beam broadens below 10%. The M3 mirror is a
-Nano-KB mirror designed to produce a beam of <50 nm at energies above 8
-keV. The M3 mirror also has less than 10% beam broadening with its set
-slope error tolerance. [Figure 5] shows the results of optical
-simulations that meet these tolerances.
+set to ensure that the beam broadens and intensity decreases below 10%.
+The M3 mirror is a Nano-KB mirror designed to produce a beam of <50 nm
+at energies above 8 keV. The M3 mirror also has less than 10% beam
+broadening and intensity decreases with its set slope error and
+roughness tolerance. [Figure 5] shows the results of a simulation of the
+beam delivered to the sample when these tolerances are met.
 
-[Figure 5] Effects of KB mirror slope eros on the focused beam.
+|image5|
 
-.. |image1| image:: ID10_NanoProbe/media/image2.png
+[Figure 5] Effects of KB mirror slope errors on the focused beam. (Left)
+SSA full open, (Middle) SSA 18.6 x 6.2 um\ :sup:`2` open, (Right) SSA 5
+x 5 um\ :sup:`2` open. Colormap scale is logarithmic.
+
+.. |image1| image:: ID10_NanoProbe/media/image4.png
    :width: 6.26772in
    :height: 1.20833in
 .. |image2| image:: ID10_NanoProbe/media/image1.png
    :width: 2.86979in
    :height: 2.81482in
-.. |image3| image:: ID10_NanoProbe/media/image4.png
-   :width: 5.53646in
-   :height: 4.20293in
-.. |image4| image:: ID10_NanoProbe/media/image3.png
+.. |image3| image:: ID10_NanoProbe/media/image3.png
+   :width: 4.19572in
+   :height: 3.18027in
+.. |image4| image:: ID10_NanoProbe/media/image2.png
    :width: 6.26772in
    :height: 1.65278in
+.. |image5| image:: ID10_NanoProbe/media/image5.png
+   :width: 6.26772in
+   :height: 1.58333in

@@ -2,7 +2,7 @@
 ===============================
 
 1. Introduction
-----------------
+---------------
 
 The Real-time X-ray Absorption Fine Structure (RXAFS) beamline is a
 state-of-the-art tool specifically designed for X-ray absorption and
@@ -203,7 +203,7 @@ is essential for maintaining optimal performance. Further details are
 provided in the ‘Front End’ section of this report.
 
 5. Beamline Layout
------------------
+------------------
 
 **Table 2** includes the design goals of the beamline. The beamline
 layout is designed to meet these goals and satisfy users’ demands
@@ -211,107 +211,106 @@ regarding QXAS and XES.
 
 **Table 2**. Beamline design goals
 
-+-----------------+---------------+-----------------------------------+
-| **Light         | In-vacuum     |                                   |
-| Source**        | Undulator     |                                   |
-|                 | (IVU24, 3m)   |                                   |
-+=================+===============+===================================+
-| **Energy        | 4 - 40 keV    |                                   |
-| Range**         |               |                                   |
-+-----------------+---------------+-----------------------------------+
-| **Measurement   | Quick XAFS    | ~ 50 ms                           |
-| time for one    |               |                                   |
-| EXAFS data**    |               |                                   |
-+-----------------+---------------+-----------------------------------+
-|                 | Normal XAFS   | ~ 3 min (on-the-fly scan)         |
-|                 |               |                                   |
-|                 |               | ~ 20 min (step scan)              |
-+-----------------+---------------+-----------------------------------+
-| **Energy        | ~ 1.4 ×       |                                   |
-| resolution      | 10\ :sup:`-4` |                                   |
-| (ΔE/E)**        | Si (111) / ~  |                                   |
-|                 | 3 ×           |                                   |
-|                 | 10\ :sup:`-5` |                                   |
-|                 | Si (311)      |                                   |
-+-----------------+---------------+-----------------------------------+
-| **Beam size at  | 18 (H) × 8    |                                   |
-| sample position | (V)           |                                   |
-| (@ 10 keV)**    | μm\ :sup:`2`  |                                   |
-|                 | (focused      |                                   |
-|                 | beam, @ 75 m) |                                   |
-|                 |               |                                   |
-|                 | 1020 (H) ×    |                                   |
-|                 | 810 (V)       |                                   |
-|                 | μm\ :sup:`2`  |                                   |
-|                 | (unfocused    |                                   |
-|                 | beam, @ 60 m) |                                   |
-+-----------------+---------------+-----------------------------------+
-| **Beam flux at  | Tuned         | ~ 9 × 10\ :sup:`13` (@ 5 keV)     |
-| sample position | Undulator     |                                   |
-| (ph/s)**        |               | ~ 4 × 10\ :sup:`12` (@ 40 keV)    |
-+-----------------+---------------+-----------------------------------+
-|                 | Tapered       | ~ 2 × 10\ :sup:`12` (@ 7 keV)     |
-|                 | Undulator     |                                   |
-|                 |               | ~ 3 × 10\ :sup:`11` (@ 25 keV)    |
-+-----------------+---------------+-----------------------------------+
-| **Main          | - High Heat   |                                   |
-| equipment**     | Load Mirror   |                                   |
-|                 | (HHLM)        |                                   |
-|                 |               |                                   |
-|                 | -             |                                   |
-|                 | Co            |                                   |
-|                 | ntinuous-scan |                                   |
-|                 | Double        |                                   |
-|                 | Crystal       |                                   |
-|                 | Monochromator |                                   |
-|                 | (C-DCM)       |                                   |
-|                 |               |                                   |
-|                 | - 60 Hz Quick |                                   |
-|                 | Double        |                                   |
-|                 | Crystal       |                                   |
-|                 | Monochromator |                                   |
-|                 | (Quick DCM)   |                                   |
-|                 |               |                                   |
-|                 | - Energy      |                                   |
-|                 | Dispersive    |                                   |
-|                 | Fluorescence  |                                   |
-|                 | Detector      |                                   |
-|                 |               |                                   |
-|                 | -             |                                   |
-|                 | Fast-response |                                   |
-|                 | Gas           |                                   |
-|                 | Ionization    |                                   |
-|                 | Chambers      |                                   |
-|                 |               |                                   |
-|                 | - 2D Position |                                   |
-|                 | Sensitive     |                                   |
-|                 | Detector (2D  |                                   |
-|                 | PSD)          |                                   |
-+-----------------+---------------+-----------------------------------+
-| **Experimental  | -             |                                   |
-| equipment**     | Hi            |                                   |
-|                 | gh-throughput |                                   |
-|                 | sample holder |                                   |
-|                 | & Sample      |                                   |
-|                 | auto-changing |                                   |
-|                 | system        |                                   |
-|                 |               |                                   |
-|                 | - von Hamos   |                                   |
-|                 | spectrometer  |                                   |
-+-----------------+---------------+-----------------------------------+
-|                 | In situ       | - Electrochemistry & Battery cell |
-|                 | experiments   |                                   |
-|                 |               | - Cryogenic cooling cell (> -196  |
-|                 |               | ℃)                                |
-|                 |               |                                   |
-|                 |               | - Heating cell (< 1200 ℃)         |
-|                 |               |                                   |
-|                 |               | - High-temperature cell for       |
-|                 |               | thermocatalysis (heating & gas    |
-|                 |               | environment)                      |
-|                 |               |                                   |
-|                 |               | - Mass analyzer                   |
-+-----------------+---------------+-----------------------------------+
++------------------+---------------+-----------------------------------+
+| **Light Source** | In-vacuum     |                                   |
+|                  | Undulator     |                                   |
+|                  | (IVU24, 3m)   |                                   |
++==================+===============+===================================+
+| **Energy Range** | 4 - 40 keV    |                                   |
++------------------+---------------+-----------------------------------+
+| **Measurement    | Quick XAFS    | ~ 50 ms                           |
+| time for one     |               |                                   |
+| EXAFS data**     |               |                                   |
++------------------+---------------+-----------------------------------+
+|                  | Normal XAFS   | ~ 3 min (on-the-fly scan)         |
+|                  |               |                                   |
+|                  |               | ~ 20 min (step scan)              |
++------------------+---------------+-----------------------------------+
+| **Energy         | ~ 1.4 ×       |                                   |
+| resolution       | 10\ :sup:`-4` |                                   |
+| (ΔE/E)**         | Si (111) / ~  |                                   |
+|                  | 3 ×           |                                   |
+|                  | 10\ :sup:`-5` |                                   |
+|                  | Si (311)      |                                   |
++------------------+---------------+-----------------------------------+
+| **Beam size at   | 18 (H) × 8    |                                   |
+| sample position  | (V)           |                                   |
+| (@ 10 keV)**     | μm\ :sup:`2`  |                                   |
+|                  | (focused      |                                   |
+|                  | beam, @ 75 m) |                                   |
+|                  |               |                                   |
+|                  | 1020 (H) ×    |                                   |
+|                  | 810 (V)       |                                   |
+|                  | μm\ :sup:`2`  |                                   |
+|                  | (unfocused    |                                   |
+|                  | beam, @ 60 m) |                                   |
++------------------+---------------+-----------------------------------+
+| **Beam flux at   | Tuned         | ~ 9 × 10\ :sup:`13` (@ 5 keV)     |
+| sample position  | Undulator     |                                   |
+| (ph/s)**         |               | ~ 4 × 10\ :sup:`12` (@ 40 keV)    |
++------------------+---------------+-----------------------------------+
+|                  | Tapered       | ~ 2 × 10\ :sup:`12` (@ 7 keV)     |
+|                  | Undulator     |                                   |
+|                  |               | ~ 3 × 10\ :sup:`11` (@ 25 keV)    |
++------------------+---------------+-----------------------------------+
+| **Main           | - High Heat   |                                   |
+| equipment**      | Load Mirror   |                                   |
+|                  | (HHLM)        |                                   |
+|                  |               |                                   |
+|                  | -             |                                   |
+|                  | Co            |                                   |
+|                  | ntinuous-scan |                                   |
+|                  | Double        |                                   |
+|                  | Crystal       |                                   |
+|                  | Monochromator |                                   |
+|                  | (C-DCM)       |                                   |
+|                  |               |                                   |
+|                  | - 60 Hz Quick |                                   |
+|                  | Double        |                                   |
+|                  | Crystal       |                                   |
+|                  | Monochromator |                                   |
+|                  | (Quick DCM)   |                                   |
+|                  |               |                                   |
+|                  | - Energy      |                                   |
+|                  | Dispersive    |                                   |
+|                  | Fluorescence  |                                   |
+|                  | Detector      |                                   |
+|                  |               |                                   |
+|                  | -             |                                   |
+|                  | Fast-response |                                   |
+|                  | Gas           |                                   |
+|                  | Ionization    |                                   |
+|                  | Chambers      |                                   |
+|                  |               |                                   |
+|                  | - 2D Position |                                   |
+|                  | Sensitive     |                                   |
+|                  | Detector (2D  |                                   |
+|                  | PSD)          |                                   |
++------------------+---------------+-----------------------------------+
+| **Experimental   | -             |                                   |
+| equipment**      | Hi            |                                   |
+|                  | gh-throughput |                                   |
+|                  | sample holder |                                   |
+|                  | & Sample      |                                   |
+|                  | auto-changing |                                   |
+|                  | system        |                                   |
+|                  |               |                                   |
+|                  | - von Hamos   |                                   |
+|                  | spectrometer  |                                   |
++------------------+---------------+-----------------------------------+
+|                  | In situ       | - Electrochemistry & Battery cell |
+|                  | experiments   |                                   |
+|                  |               | - Cryogenic cooling cell (> -196  |
+|                  |               | ℃)                                |
+|                  |               |                                   |
+|                  |               | - Heating cell (< 1200 ℃)         |
+|                  |               |                                   |
+|                  |               | - High-temperature cell for       |
+|                  |               | thermocatalysis (heating & gas    |
+|                  |               | environment)                      |
+|                  |               |                                   |
+|                  |               | - Mass analyzer                   |
++------------------+---------------+-----------------------------------+
 
 The beamline layout of RXAFS is illustrated in **Figure 6**. The first
 optics after the Front-End is the High Heat Load Mirror (HHLM),
@@ -893,7 +892,7 @@ purposes:
 
 |image8|
 
-Figure 9. Reflectivity curve of the HFM
+**Figure 9**. Reflectivity curve of the HFM
 
 The Horizontal Focusing Mirror (HFM) is designed to reflect the beam
 vertically (up-bounce) and has a sagittal cylindrical shape, allowing it
@@ -922,9 +921,44 @@ purposes:
 
 -  High harmonic rejection
 
+|image9|
+
+**Figure 10**. *Reflectivity curve of HRM*
+
 The Horizontal Focusing Mirror (HRM) is designed to reflect the beam
 vertically (down-bounce) and has an originally flat shape, allowing it
-to focus the beam vertically using the bender.
+to focus the beam vertically using the bender. It consists of three
+mirror surfaces: Si, Rh 5 nm/Pt 50 nm, and Pt 50 nm. The mirror surface
+can be adjustable depending on the beam energy being used. When the beam
+energy is lower than 15 keV, the Si surface will be used to remove the
+high harmonics effectively. Adjusting the incident angle from 2 mrad to
+3 mrad is an additional option to remove the high harmonics when using
+the beam with energy around 4 to 5 keV. It is difficult to remove the
+high harmonics by detuning the crystal in the QDCM, which uses the
+channel-cut Si; the effective rejection of high harmonics is more
+important through this HRM during the QXAS measurement. For normal XAS,
+the Rh 5 nm/Pt 50 nm will be used normally and the high harmonics also
+can be removed by detuning of the 2\ :sup:`nd` crystal of DCM.
+
+to remove the high harmonics
+
+The Horizontal Focusing Mirror (HFM) is designed to reflect the beam
+vertically (up-bounce) and has a sagittal cylindrical shape, allowing it
+to focus the beam horizontally. It consists of two mirror surfaces with
+different coatings and sagittal radii, enabling it to focus the beam and
+reject high harmonics by adjusting the incident angle. **Figure 9**
+illustrates the reflectivity curve of the HFM with two mirror surfaces:
+a Rh 5 nm/Pt 50 nm bilayer and Si, for incident angles of 2 mrad and 3
+mrad, respectively. The RXAFS beamline will deliver a photon beam with
+energies starting from 4 keV. Therefore, it is essential to remove high
+harmonics when using the beam around this energy. When users need to
+adjust the photon energy across a wide range of 4-40 keV in a single
+beamtime, they will use a mirror with a Rh 5 nm/Pt 50 nm coating in a
+fixed mode. Harmonic rejection will then be achieved by detuning the
+2\ :sup:`nd` crystal of the DCM for beamline management. By allowing
+users to easily switch between different photon energies, the HFM
+provides a flexible and efficient solution for a wide range of
+experimental requirements.
 
 .. |image1| image:: ID23_RTXAFS/media/image1.png
    :width: 4.42309in
@@ -950,3 +984,6 @@ to focus the beam vertically using the bender.
 .. |image8| image:: ID23_RTXAFS/media/image9.png
    :width: 3.32639in
    :height: 2.56057in
+.. |image9| image:: ID23_RTXAFS/media/image10.png
+   :width: 3.20253in
+   :height: 2.45664in
