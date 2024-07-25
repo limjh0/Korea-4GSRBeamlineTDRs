@@ -1,3 +1,0 @@
-4. Beamline Requirements for the Front End
-==========================================
-The front end of BioPharma-BioSAXS beamline will require to handle a maximum power of 17.9 kW. The output of the beam from IVU24 is appropriately attenuated using three masks in the front end to prevent damage to the optical devices in the PTL section and enable stable operation of the beam line. The BioPharma-BioSAXS beamline will utilize the standard KOREA-4GSR IVU24 front end design. Two fixed type masks and one movable type mask will control a total of 17.5 kW of heat at the front end. The beamsize drawn from the front end will be 1.3 x 1.3 mm² at front end exit port.  A detailed description of the BioPharma-BioSAXS Front End can be found in the [].
