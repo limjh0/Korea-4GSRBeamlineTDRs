@@ -2,7 +2,7 @@
 =================================
 
 1. Introduction
-===============
+---------------
 
 The BioPharma-BioSAXS beamline performs overall structural
 characterization and structural transition studies of biological
@@ -42,7 +42,7 @@ the beamline is to process a large number of samples at high speed
 low divergence X-rays based on 4th generation synchrotron radiation.[4]
 
 2. Scientific objectives
-========================
+-----------------------
 
 The BioPharma-BioSAXS beamline provides a solution SXAS technique,
 contributing to the analysis of biopharmaceutical properties by studying
@@ -69,7 +69,7 @@ samples can be processed at high speed to collect data at high
 throughput.
 
 3. Beamline Requirements for the Insertion Device
-=================================================
+-------------------------------------------------
 
 The BioPharma-BioSAXS beamline will require the highest brilliance in
 the energy range of 5-20 keV without energy discontinuity. The source
@@ -98,7 +98,7 @@ can be found in the [].
 +-------+-----+-----+----+-----+-----+----------+---------------------+
 
 4. Beamline Requirements for the Front End
-==========================================
+------------------------------------------
 
 The front end of BioPharma-BioSAXS beamline will require to handle a
 maximum power of 17.9 kW. The output of the beam from IVU24 is
@@ -112,7 +112,7 @@ at front end exit port. A detailed description of the BioPharma-BioSAXS
 Front End can be found in the [].
 
 5. Beamline Layout
-==================
+-------------------
 
 The BioPharma-BioSAXS beamline is a SAXS-dedicated beamline at the
 KOREA-4GSR construction. The beamline layout is shown in Figure 1, where
@@ -218,7 +218,7 @@ beamline, and description.
 +------------+--------------+----------------+-------------------------+
 
 6. Optics Overview 
-===================
+------------------
 
 **6.1 Mirror Specifications**
 

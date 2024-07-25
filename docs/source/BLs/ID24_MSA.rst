@@ -2,7 +2,7 @@
 =================================
 
 1. Introduction
-===============
+---------------
 
 The Material Structure Analysis (MSA) beamline is a powerful tool
 specifically designed for High-Resolution Powder Diffraction (HRPD) and
@@ -21,7 +21,7 @@ priority support beamline to respond to the demands of industry fields
 and to promote manpower in related fields.
 
 2. Scientific objectives
-========================
+-----------------------
 
 Material properties are significantly correlated to the crystal
 structure and its changes. The crystal structure consists of an array of
@@ -51,7 +51,7 @@ valuable information for both academic research and practical
 applications in mining and environmental science.
 
 3. Beamline Requirements for the Insertion Device
-=================================================
+------------------------------------------------
 
 The Material Structure Analysis beamline can provide an energy range of
 5-40 keV using an In-Vacuum Undulator (IVU). The high-resolution powder
@@ -93,7 +93,7 @@ reducing flux. Additionally, the insertion device is equipped with a
 tapering mode to provide positive tapering as needed.
 
 4. Beamline Requirements for the Front End
-==========================================
+-----------------------------------------
 
 The front end of Material Structure Analysis beamline is required to
 handle a high heat load of the maximum 18 kW. This total power will be
@@ -107,7 +107,7 @@ aperture size can be adjusted up to ~2 × 2 mm\ :sup:`2`. Further details
 are referred in the section of ‘Front End’ in this report.
 
 5. Beamline Layout
-==================
+--------------------
 
 **Beamline Layout**
 
@@ -212,7 +212,7 @@ beamline
 +------------+--------------------------+------------------------------+
 
 6. Optics overview
-==================
+------------------
 
 The detailed specifications for the optics are listed in Table 3.
 

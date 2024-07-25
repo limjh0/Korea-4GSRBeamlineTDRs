@@ -5,7 +5,7 @@ BM10\_ High Energy Microscopy (HEM)
 ====================================
 
 1. Introduction
-===============
+--------------
 
 High-energy microscopy is one of the long beamlines exceeding 100
 meters, providing CT images based on projection image technology.
@@ -19,7 +19,7 @@ from the source, and the other two are located in separate buildings at
 with another long beamline, the ID10 nano-probe beamline.
 
 2. Scientific objectives
-========================
+-----------------------
 
 Synchrotron source provide highly brilliant and collimated X-rays, which
 are essential for achieving high-resolution imaging. Microtomography
@@ -64,7 +64,7 @@ approach implies a comprehensive understanding of material structures
 and processes.
 
 3. Beamline Requirements for the Insertion Device (Bending magnet)
-==================================================================
+---------------------------------------------------------------------
 
 High-energy microscope beamlines require high-brightness sources that
 can cover the X-ray energy spectrum from 5 keV to over 100 keV and small
@@ -113,7 +113,7 @@ meeting future scientific requirements by keeping open the option to
 upgrade our imaging beamline.
 
 4. Beamline Requirements for the Front End
-==========================================
+-------------------------------------------
 
 The layout of the beamline is split into two parts separated by a
 ratchet-shaped storage ring tunnel wall, and the inside of the ring
@@ -161,7 +161,7 @@ HEM beamline front end.
 +--------------+-------------------+-----------------------------------+
 
 5. Beamline Layout
-==================
+------------------
 
 |image1|
 
@@ -316,7 +316,7 @@ optics, sample environments, and detector.
 +----------+---------+--------------+--------------------------------+
 
 6. Optics Overview
-==================
+-------------------
 
 **6.1 Beam Delivery Specifications**
 

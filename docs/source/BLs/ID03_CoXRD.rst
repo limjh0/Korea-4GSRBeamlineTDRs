@@ -2,10 +2,10 @@
 =================================
 
 1. Introduction
-===============
+--------------
 
 2. Scientific Objective
-=======================
+-----------------------
 
 The coherent X-ray diffraction beamline is one of the most active
 beamlines utilizing the coherence characteristics of the 4GSR light
@@ -29,7 +29,7 @@ increase the utilization of coherent X-ray diffraction imaging and
 microbeam X-ray diffraction.
 
 3. Beamline Requirements for the Insertion Devices
-==================================================
+--------------------------------------------------
 
 ID03 will be installed in-vacuum undulator with a period of 22 mm of 3 m
 length.
@@ -52,7 +52,7 @@ and from 3 keV.
    +--------------+----------+----------+----------+----------+----------+
 
 4. Beamline Requirements for the Front End
-==========================================
+------------------------------------------
 
 The FE of this beamline is designed for all optical component under the
 following conditions. (Reference the 4GSR beamline FE section)
@@ -73,7 +73,7 @@ front of the photon shutter at the end of the FE, where it roughly
 conditions the beam to FWHM before it is incident on the PTL.
 
 5. Beamline Layout
-==================
+------------------
 
 |image1|
 
@@ -166,7 +166,7 @@ conditions the beam to FWHM before it is incident on the PTL.
    +----------+------------------------+----------------------------------+
 
 6. Optics Overview
-==================
+-------------------
 
 This beamline should be designed to maintain the wavefront to the
 sample. Therefore, the optics are designed to minimize vibration(<100
