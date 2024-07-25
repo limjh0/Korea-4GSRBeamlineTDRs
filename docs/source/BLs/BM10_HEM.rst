@@ -1,9 +1,6 @@
 ``BM10`` High Energy Microscopy (HEM)
 =================================
 
-BM10\_ High Energy Microscopy (HEM) 
-====================================
-
 1. Introduction
 --------------
 
