@@ -1,8 +1,11 @@
 ``BM10`` High Energy Microscopy (HEM)
 =================================
 
+BM10\_ High Energy Microscopy (HEM) 
+====================================
+
 1. Introduction
-----------------
+===============
 
 High-energy microscopy is one of the long beamlines exceeding 100
 meters, providing CT images based on projection image technology.
@@ -16,7 +19,7 @@ from the source, and the other two are located in separate buildings at
 with another long beamline, the ID10 nano-probe beamline.
 
 2. Scientific objectives
------------------------
+========================
 
 Synchrotron source provide highly brilliant and collimated X-rays, which
 are essential for achieving high-resolution imaging. Microtomography
@@ -61,7 +64,7 @@ approach implies a comprehensive understanding of material structures
 and processes.
 
 3. Beamline Requirements for the Insertion Device (Bending magnet)
------------------------------------------------------------------
+==================================================================
 
 High-energy microscope beamlines require high-brightness sources that
 can cover the X-ray energy spectrum from 5 keV to over 100 keV and small
@@ -110,7 +113,7 @@ meeting future scientific requirements by keeping open the option to
 upgrade our imaging beamline.
 
 4. Beamline Requirements for the Front End
--------------------------------------------
+==========================================
 
 The layout of the beamline is split into two parts separated by a
 ratchet-shaped storage ring tunnel wall, and the inside of the ring
@@ -158,7 +161,7 @@ HEM beamline front end.
 +--------------+-------------------+-----------------------------------+
 
 5. Beamline Layout
------------------
+==================
 
 |image1|
 
@@ -313,7 +316,7 @@ optics, sample environments, and detector.
 +----------+---------+--------------+--------------------------------+
 
 6. Optics Overview
------------------
+==================
 
 **6.1 Beam Delivery Specifications**
 
@@ -417,17 +420,56 @@ for projection imaging.
 
 6.3.1 Windows
 
-6.3.2 Slits
+The window located at the front-end of beamline plays a critical role in
+the thermal load and maintaining optimal beamline conditions. It
+protects sensitive downstream components by reducing the thermal load
+before the beam reaches the white beam slit, filter and monochromator.
 
-6.3.3 Filters
+CVD diamond (Chemical Vapor Deposition) is known for its high thermal
+conductivity and low absorption, making it suitable for managing high
+thermal loads without significant beam attenuation. These CVD Diamond
+windows are designed to maintain performance under high heat load
+conditions.
 
-6.3.4 Monochromators
+CVD diamond windows are used to separate the UHV (ultra-high vacuum) of
+the accelerator ring from the beamline, providing vacuum protection in
+case of a vacuum failure on the beamline. These windows have a maximum
+aperture of 38 x 9 mm, which is sufficient to pass the beam, and they
+also reduce the heat load by 60W.
 
-6.3.5 Blocks
+6.3.2 Filters
 
-**6.4 Heat Load Considerations**
+In high-energy imaging beamlines, a low energy cut-off filter is an
+essential component designed to remove unwanted low-energy photons from
+the beam. This helps to optimize the beam quality and ensure that only
+the desired high-energy photons are used for imaging. The low energy
+cut-off filter selectively absorbs or reflects photons below a certain
+energy threshold, allowing only higher-energy photons to pass through.
 
-6.4.1 Windows & energy filters
+By removing low-energy photons, the filter reduces background noise and
+enhances the signal-to-noise ratio (SNR) of the imaging system. This
+results in clearer and more accurate images. Low-energy photons
+contribute significantly to the thermal load on downstream optical
+elements and detectors. Filtering these photons reduces the heat load,
+thereby protecting sensitive components and enhancing their longevity
+and performance.
+
+The beam performance of HEM beamline is controlled by filters and the
+expected performance are shown in **Figure 5**.
+
+|image3|
+
+**Figure 5.** Performance of beam by filter material in the HEM
+beamline.
+
+Materials with high atomic numbers (Z) such as aluminum (Al), copper
+(Cu), or molybdenum (Mo) are commonly used for low energy cut-off
+filters due to their high absorption efficiency for low-energy photons.
+The low energy cut-off filter is placed early in the beamline, before
+other optical elements and the sample, to maximize its protective and
+quality-enhancing effects.
+
+6.3.3 Monochromators
 
 .. |EMB00004d785b5f| image:: BM10_HEM/media/image1.png
    :width: 2.48918in
@@ -444,3 +486,6 @@ for projection imaging.
 .. |image2| image:: BM10_HEM/media/image5.png
    :width: 6.29921in
    :height: 1.63519in
+.. |image3| image:: BM10_HEM/media/image6.emf
+   :width: 6.26806in
+   :height: 3.01714in
